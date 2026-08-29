@@ -1,6 +1,6 @@
-# 💫 About Me:  
+# 💫 About Me:   👇 Check out my portfolio below! BY CLICKING ON THE IMAGE  
 
-
+  
 <p align="center">
   <a href="https://atharva-portfolio-ov4mi51.public.builtwithrocket.new/about" target="_blank">
     <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788011615/Screenshot_2026-08-29_192309.png"
