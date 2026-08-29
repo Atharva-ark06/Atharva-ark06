@@ -1,10 +1,10 @@
-# 💫 About Me: 👇 Check out my portfolio below! BY CLICKING ON THIS IMAGE  
+# About Me: 👇 Check out my portfolio below! BY CLICKING ON THIS IMAGE  
 
 
 <p align="center">
   <a href="https://atharva-portfolio-ov4mi51.public.builtwithrocket.new/about" target="_blank">
     <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788029466/Screenshot_2026-08-30_002018.png"
-         width="75%"
+         width="79%"
          alt="Atharva Kulkarni - Portfolio">
   </a>
 </p>
