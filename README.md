@@ -1,5 +1,5 @@
 # 💫 About Me:  
-# 💫 About Me:
+
 
 <p align="center">
   <a href="https://atharva-portfolio-ov4mi51.public.builtwithrocket.new/about" target="_blank">
