@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://atharva-portfolio-ov4mi51.public.builtwithrocket.new/about" target="_blank">
-    <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788011615/Screenshot_2026-08-29_192309.png"
-         width="95%"
+    <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788029466/Screenshot_2026-08-30_002018.png"
+         width="75%"
          alt="Atharva Kulkarni - Portfolio">
   </a>
 </p>
