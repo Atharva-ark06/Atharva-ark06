@@ -1,4 +1,4 @@
-# About Me: 👇 Check out my portfolio below! BY CLICKING ON THIS IMAGE  
+# About Me: 👇 Check out my portfolio below! BY CLICKING ON THIS IMAGE   
 
 
 <p align="center">
