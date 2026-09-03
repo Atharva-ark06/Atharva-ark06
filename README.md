@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://portfolio-d1q.pages.dev/" target="_blank">
-    <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788029466/Screenshot_2026-08-30_002018.png"
+    <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788445617/MY-Portfolio.png"
          width="79%"
          alt="Atharva Kulkarni - Portfolio">
   </a>
