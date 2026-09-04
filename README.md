@@ -73,15 +73,6 @@ Rapidly prototyping ideas, experimenting with AI-assisted development, and shipp
 * 🌐 **Full-stack web applications**
 * 🧪 Experimental projects with **APIs, AI tools & automation**
 
-## 🤝 Open To
-
-Collaborating on:
-
-`AI/ML` · `Cybersecurity` · `Web Development` · `Open Source` · `AI Applications`
-
-If you're building something interesting, **let's build it together.**
-
----
 
 ## 🛠️ Tech I Work With
 
