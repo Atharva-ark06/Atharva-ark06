@@ -8,7 +8,7 @@
          alt="Atharva Kulkarni - Portfolio">
   </a>
 </p>
-
+ 
 🔭 I’m currently working on<br>AI/ML, Cybersecurity, and full-stack projects focused on solving practical, real-world problems.<br><br>👯 I’m looking to collaborate on<br>Innovative AI/ML, Cybersecurity, Web Development, and Open Source projects with passionate developers.<br><br>🤝 I’m looking for help with<br>Advanced AI, Cybersecurity, Network Security, and building production-ready applications.<br><br>🌱 I’m currently learning<br>AI & Machine Learning, Cybersecurity, Network Security, Cloud, APIs, and modern web technologies.<br><br>💬 Ask me about<br>Python, Java, JavaScript, AI/ML, Cybersecurity, Network Security, Web Development, GitHub, and project building.<br><br>⚡ Fun fact<br>I learn best by building — if I have an idea, I’ll probably turn it into a project.
 
 ## 🌐 Socials:
