@@ -64,18 +64,6 @@ Rapidly prototyping ideas, experimenting with AI-assisted development, and shipp
 </tr>
 </table>
 
----
-
-## 🔭 Currently Building
-
-* 🤖 **AI/ML projects** focused on real-world problems
-* 🛡️ **Cybersecurity & Network Security** projects
-* 🌐 **Full-stack web applications**
-* 🧪 Experimental projects with **APIs, AI tools & automation**
-
-
-## 🛠️ Tech I Work With
-
 ### 👨‍💻 Languages
 
 <p>
