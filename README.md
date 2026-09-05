@@ -9,7 +9,7 @@ I'm a Computer Science student focused on **AI/ML, Cybersecurity, and Full-Stack
 ---
 
 ## 🚀 Explore My Portfolio
-
+## JUST CLICK ON THIS IMAGE
 <p align="center">
   <a href="https://portfolio-d1q.pages.dev/" target="_blank">
     <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788445617/MY-Portfolio.png"
