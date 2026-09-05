@@ -30,7 +30,7 @@ I'm a Computer Science student focused on **AI/ML, Cybersecurity, and Full-Stack
 
 <table>
 <tr>
-<td width="50%">
+<td width="51%">
 
 ### 🤖 AI & Machine Learning
 
