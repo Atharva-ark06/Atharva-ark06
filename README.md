@@ -41,11 +41,13 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
 
 ---
 
+
+
 ## 🧠 Core Focus Areas
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" style="vertical-align: top;">
       <h3>🤖 AI & Machine Learning</h3>
       <ul>
         <li>Intelligent Application Design</li>
@@ -53,7 +55,7 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
         <li>AI APIs & Model Fine-Tuning</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" style="vertical-align: top;">
       <h3>🛡️ Cybersecurity</h3>
       <ul>
         <li>Network & Threat Analysis</li>
@@ -63,7 +65,7 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" style="vertical-align: top;">
       <h3>💻 Full-Stack Engineering</h3>
       <ul>
         <li>Modern Web Architectures</li>
@@ -71,7 +73,7 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
         <li>Database Management Systems</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" style="vertical-align: top;">
       <h3>⚡ Rapid Prototyping</h3>
       <ul>
         <li>AI-Assisted Development ("Vibe Coding")</li>
@@ -142,7 +144,7 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-ark06&show_icons=true&theme=synthwave&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&theme=synthwave&hide_border=true) |
+| ![GitHub Stats](https://github.com/users/Atharva-ark06/achievements/yolo) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&theme=synthwave&hide_border=true) |
 
 ---
 
