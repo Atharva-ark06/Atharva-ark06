@@ -25,7 +25,8 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
 
 ---
 
-## 🚀 Interactive Portfolio
+## 🚀 Interactive Portfolio  
+ ''' Click on the image 
 
 <p align="center">
   <a href="https://portfolio-d1q.pages.dev/" target="_blank">
@@ -185,7 +186,7 @@ Rapidly prototyping ideas, experimenting with AI-assisted development, and shipp
 
 <p>
  
-  <img src=" <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788800957/copy_of_screenshot_2025-06-12_194123.png" alt="I M BUSY" align="center"/>
+ <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788800957/copy_of_screenshot_2025-06-12_194123.png" alt="I M BUSY" align="center"/>
 </p>
 
 </div>
