@@ -138,10 +138,11 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-ark06&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&theme=synthwave&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+## 📊 GitHub Analytics
+
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-ark06&show_icons=true&theme=synthwave&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&theme=synthwave&hide_border=true) |
 
 ---
 
