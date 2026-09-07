@@ -183,4 +183,9 @@ Rapidly prototyping ideas, experimenting with AI-assisted development, and shipp
   <img src="https://komarev.com/ghpvc/?username=Atharva-ark06&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p>
+ 
+  <img src=" <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788800957/copy_of_screenshot_2025-06-12_194123.png" alt="I M BUSY" align="center"/>
+</p>
+
 </div>
