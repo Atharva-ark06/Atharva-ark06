@@ -45,44 +45,165 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
 
 ## 🧠 Core Focus Areas
 
-<table width="100%">
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h3>🤖 AI & Machine Learning</h3>
-      <ul>
-        <li>Intelligent Application Design</li>
-        <li>Predictive Data Modeling</li>
-        <li>AI APIs & Model Fine-Tuning</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <h3>🛡️ Cybersecurity</h3>
-      <ul>
-        <li>Network & Threat Analysis</li>
-        <li>Information Security Architecture</li>
-        <li>Secure Software Development</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h3>💻 Full-Stack Engineering</h3>
-      <ul>
-        <li>Modern Web Architectures</li>
-        <li>RESTful APIs & Integrations</li>
-        <li>Database Management Systems</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top;">
-      <h3>⚡ Rapid Prototyping</h3>
-      <ul>
-        <li>AI-Assisted Development ("Vibe Coding")</li>
-        <li>Iterative Software Design</li>
-        <li>Proof-of-Concept Shipping</li>
-      </ul>
-    </td>
-  </tr>
+## 🧠 What I'm Into
+
+
+
+<table>
+
+<tr>
+
+<td width="51%">
+
+
+
+### 🤖 AI & Machine Learning
+
+
+
+Building intelligent applications, experimenting with ML models, and exploring practical AI solutions.
+
+
+
+</td>
+
+<td width="50%">
+
+
+
+### 🛡️ Cybersecurity
+
+
+
+Learning network security, information security, secure systems, and security-focused technologies.
+
+
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width="50%">
+
+
+
+### 💻 Full-Stack Development
+
+
+
+Creating modern, responsive applications and turning ideas into usable products.
+
+
+
+</td>
+
+<td width="50%">
+
+
+
+### ⚡ Vibe Coding
+
+
+
+Rapidly prototyping ideas, experimenting with AI-assisted development, and shipping projects.
+
+
+
+</td>
+
+</tr>
+
 </table>
+
+
+
+### 👨‍💻 Languages
+
+
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+</p>
+
+
+
+### 🤖 AI / Data
+
+
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+
+</p>
+
+
+
+### 🌐 Web / Backend
+
+
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+</p>
+
+
+
+### ☁️ Cloud / Tools
+
+
+
+<p>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+</p>
+
+
+
+---
 
 ---
 
@@ -137,19 +258,6 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
 </details>
 
 ---
-
-## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
-
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| ![GitHub Stats](https://github.com/users/Atharva-ark06/achievements/yolo) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&theme=synthwave&hide_border=true) |
-
----
-
-<div align="center">
-
 ### Thanks for dropping by! 👋
 
 <p>
