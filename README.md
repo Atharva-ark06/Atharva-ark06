@@ -26,7 +26,7 @@ I am a Computer Science student passionate about **Artificial Intelligence, Netw
 ---
 
 ## 🚀 Interactive Portfolio  
- ''' Click on the image 
+  Click on the image 
 
 <p align="center">
   <a href="https://portfolio-d1q.pages.dev/" target="_blank">
@@ -184,9 +184,10 @@ Rapidly prototyping ideas, experimenting with AI-assisted development, and shipp
   <img src="https://komarev.com/ghpvc/?username=Atharva-ark06&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center" width="75%" >
- 
+<p align="center" width="75%" > 
+  ## click me
+ <a href="https://youtu.be/AJG-Nluvg5c?si=zmZ8gUrDrJTZ1Cdp" >
  <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788800957/copy_of_screenshot_2025-06-12_194123.png" alt="I M BUSY"/>
 </p>
-
+ </a>
 </div>
