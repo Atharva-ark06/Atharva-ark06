@@ -185,9 +185,9 @@ Rapidly prototyping ideas, experimenting with AI-assisted development, and shipp
 </p>
 
 ## Click me 
+<p align="center" ></p>
 
 <p align="center" > 
-
  <a href="https://youtu.be/AJG-Nluvg5c?si=zmZ8gUrDrJTZ1Cdp" >
  <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788800957/copy_of_screenshot_2025-06-12_194123.png" alt="I M BUSY"/>
 </p>
