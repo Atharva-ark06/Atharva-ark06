@@ -63,14 +63,30 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 
 <div align="center">
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<a href="https://portfolio-d1q.pages.dev/">Portfolio</a>
-  •   <a href="https://linkedin.com/in/atharvakulkarniark">LinkedIn</a>
-  •   <a href="https://github.com/Atharva-ark06">GitHub</a>
+<div align="center">
+
+<a href="https://portfolio-d1q.pages.dev/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Atharva-ark06">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/AtharvaKul63436">
+<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/kulkarni_atharva_06">
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Atharva-ark06&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"/>
 
 </div>
+
+
