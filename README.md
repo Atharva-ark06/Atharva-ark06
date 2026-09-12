@@ -39,24 +39,6 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 
 ---
 
-## 🚀 Interactive Portfolio
-
-<p align="center">
-
-<a href="https://portfolio-d1q.pages.dev/" target="_blank">
-<img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1788445617/MY-Portfolio.png" width="90%" alt="Atharva Kulkarni Portfolio"/>
-</a>
-
-<br><br>
-
-<a href="https://portfolio-d1q.pages.dev/">
-<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-7c3aed?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
 ## 🧠 Focus
 
 `🤖 AI / ML`   `🛡️ Cybersecurity`   `💻 Full-Stack`   `⚡ AI Automation`
