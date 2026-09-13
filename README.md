@@ -8,11 +8,19 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
- | [🌐 **VISIT MY PORTFOLIO**](https://portfolio-d1q.pages.dev/) |
-<img src="https://skillicons.dev/icons?i=portfolio" width="45"/>
-<a href="https://portfolio-d1q.pages.dev/">
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="45"/>
-</a>
+<p align="center">
+  <a href="https://portfolio-d1q.pages.dev/">
+    🌐 <b>VISIT MY PORTFOLIO</b>
+  </a>
+  <br/><br/>
+  <a href="https://portfolio-d1q.pages.dev/">
+    <img src="https://skillicons.dev/icons?i=portfolio" width="45" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-d1q.pages.dev/">
+    <img src="https://skillicons.dev/icons?i=cloudflare" width="45" alt="Cloudflare"/>
+  </a>
+</p>
 
 <br><br>
 
