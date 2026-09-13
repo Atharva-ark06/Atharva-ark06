@@ -8,6 +8,8 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
+<br></br>
+
 <p align="center">
   <a href="https://portfolio-d1q.pages.dev/">
   🌐 <b>VISIT MY PORTFOLIO</b>
