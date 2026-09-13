@@ -8,11 +8,9 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
-<p align="center">
-  <a href="https://portfolio-d1q.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white" height="60" alt="My Portfolio"/>
-  </a>
-</p>
+<a href="https://portfolio-d1q.pages.dev/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #7c3aed 0%, #4c1d95 100%); color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 1px; text-decoration: none; border-radius: 50px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.4);">
+  <span style="margin-right: 10px; font-size: 20px;">🌐</span> MY PORTFOLIO
+</a>
 <br><br>
 
 <a href="https://linkedin.com/in/atharvakulkarniark">
