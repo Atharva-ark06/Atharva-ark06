@@ -8,10 +8,11 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
-<a href="https://portfolio-d1q.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B" height="55" alt="Portfolio Badge"/>
-</a>
-
+<p align="center">
+  <a href="https://portfolio-d1q.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white" height="60" alt="My Portfolio"/>
+  </a>
+</p>
 <br><br>
 
 <a href="https://linkedin.com/in/atharvakulkarniark">
