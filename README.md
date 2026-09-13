@@ -55,7 +55,7 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱  Currently Exploring
 
 **AI • LLMs • Cybersecurity • Automation • Modern Web Development**
 
