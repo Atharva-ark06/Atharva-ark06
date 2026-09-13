@@ -8,14 +8,12 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
-<a href="https://portfolio-d1q.pages.dev/" target="_blank" style="display: inline-flex; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 14px; border-radius: 6px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  <span style="background-color: #1e1b4b; color: #ffffff; padding: 12px 18px; display: flex; align-items: center; gap: 8px;">
-    🌐 PORTFOLIO
-  </span>
-  <span style="background-color: #7c3aed; color: #ffffff; padding: 12px 18px; display: flex; align-items: center;">
-    VISIT SITE ➔
-  </span>
-</a>
+<p align="center">
+  <a href="https://portfolio-d1q.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_PORTFOLIO-v2.0-0f172a?style=for-the-badge&logo=vercel&logoColor=7c3aed&labelColor=020617" alt="Portfolio Status"/>
+    <img src="https://img.shields.io/badge/🚀_CLICK_TO_VIEW-7c3aed?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Link"/>
+  </a>
+</p>
 <br><br>
 
 <a href="https://linkedin.com/in/atharvakulkarniark">
