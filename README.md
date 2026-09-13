@@ -68,14 +68,9 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 
 
 <div align="center">
-
-
-<div align="center">
-
-| 🚀 SYSTEM STATUS | 🌐 PORTFOLIO DIRECTORY |
-| :---: | :---: |
-| `ONLINE` | **[ENTER SITE ➔](https://portfolio-d1q.pages.dev/)** |
-
+<a href="https://portfolio-d1q.pages.dev/">
+  <img src="https://skillicons.dev/icons?i=portfolio" width="45"/>
+</a>
 </div>
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
