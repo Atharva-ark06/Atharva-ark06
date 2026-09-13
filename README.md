@@ -8,11 +8,12 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://portfolio-d1q.pages.dev/" target="_blank" style="display: inline-block; width: 80%; max-width: 400px; padding: 16px 0; background: linear-gradient(90deg, #6d28d9, #9333ea); color: #ffffff; font-family: sans-serif; font-size: 18px; font-weight: 800; text-align: center; text-decoration: none; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(124, 58, 237, 0.5);">
-    🌐 EXPLORE MY PORTFOLIO
+<p align="center">
+  <a href="https://portfolio-d1q.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/STATUS-ONLINE_&_READY-1e1b4b?style=for-the-badge&logo=statuspage&logoColor=22c55e" alt="Status"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_DEMO-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
+</p>
 <br><br>
 
 <a href="https://linkedin.com/in/atharvakulkarniark">
@@ -85,14 +86,13 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 </a>
 
 
-```text
-┌──────────────────────────────────────────┐
-│  🌐  [CLICK HERE TO ENTER PORTFOLIO]     │
-│  └─►  [https://portfolio-d1q.pages.dev/](https://portfolio-d1q.pages.dev/)   │
-└──────────────────────────────────────────┘
-<br><br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Atharva-ark06&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"/>
+| 🚀 SYSTEM STATUS | 🌐 PORTFOLIO DIRECTORY |
+| :---: | :---: |
+| `ONLINE` | **[ENTER SITE ➔](https://portfolio-d1q.pages.dev/)** |
+
+</div>
 
 </div>
 
