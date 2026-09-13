@@ -69,7 +69,7 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 
 <div align="center">
 <a href="https://portfolio-d1q.pages.dev/">
-  <img src="https://skillicons.dev/icons?i=portfolio" width="45"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="45"/>
 </a>
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
