@@ -65,7 +65,9 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 
 ## 🤝 Let's Connect
 
+
 <div align="center">
+
 
 <a href="https://portfolio-d1q.pages.dev/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
