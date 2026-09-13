@@ -68,9 +68,7 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 
 
 <div align="center">
-<a href="https://portfolio-d1q.pages.dev/">
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="45"/>
-</a>
+
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 &nbsp;&nbsp;
@@ -86,6 +84,12 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
+
+```text
+┌──────────────────────────────────────────┐
+│  🌐  [CLICK HERE TO ENTER PORTFOLIO]     │
+│  └─►  [https://portfolio-d1q.pages.dev/](https://portfolio-d1q.pages.dev/)   │
+└──────────────────────────────────────────┘
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Atharva-ark06&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"/>
