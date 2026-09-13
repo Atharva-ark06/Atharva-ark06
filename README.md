@@ -9,7 +9,7 @@
 *Building things, breaking things, learning from them — and building them better.*
 
 <a href="https://portfolio-d1q.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-CLICK_HERE-8B5CF6?style=for-the-badge&logoColor=fff&color=7C3AED" height="50" alt="Portfolio Badge"/>
+  <img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E1B4B" height="55" alt="Portfolio Badge"/>
 </a>
 
 <br><br>
