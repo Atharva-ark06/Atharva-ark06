@@ -7,9 +7,8 @@
 ### 🤖 AI/ML Developer • 🛡️ Cybersecurity Enthusiast • ⚡ Creative Technologist
 
 *Building things, breaking things, learning from them — and building them better.*
-<a>
-| [🌐 **VISIT MY PORTFOLIO**](https://portfolio-d1q.pages.dev/) |
-| :---: |
+
+<a | [🌐 **VISIT MY PORTFOLIO**](https://portfolio-d1q.pages.dev/) |>
 <img src="https://skillicons.dev/icons?i=portfolio" width="45"/>
 </a>
 <br><br>
