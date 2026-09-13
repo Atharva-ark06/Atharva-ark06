@@ -8,9 +8,12 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
-<a | [🌐 **VISIT MY PORTFOLIO**](https://portfolio-d1q.pages.dev/) |>
+ | [🌐 **VISIT MY PORTFOLIO**](https://portfolio-d1q.pages.dev/) |
 <img src="https://skillicons.dev/icons?i=portfolio" width="45"/>
+<a href="https://portfolio-d1q.pages.dev/">
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="45"/>
 </a>
+
 <br><br>
 
 <a href="https://linkedin.com/in/atharvakulkarniark">
