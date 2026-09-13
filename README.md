@@ -8,8 +8,13 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
-<a href="https://portfolio-d1q.pages.dev/" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; padding: 14px 28px; background: linear-gradient(135deg, #7c3aed 0%, #4c1d95 100%); color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 700; letter-spacing: 1px; text-decoration: none; border-radius: 50px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.4);">
-  <span style="margin-right: 10px; font-size: 20px;">🌐</span> MY PORTFOLIO
+<a href="https://portfolio-d1q.pages.dev/" target="_blank" style="display: inline-flex; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 14px; border-radius: 6px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <span style="background-color: #1e1b4b; color: #ffffff; padding: 12px 18px; display: flex; align-items: center; gap: 8px;">
+    🌐 PORTFOLIO
+  </span>
+  <span style="background-color: #7c3aed; color: #ffffff; padding: 12px 18px; display: flex; align-items: center;">
+    VISIT SITE ➔
+  </span>
 </a>
 <br><br>
 
