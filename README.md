@@ -8,12 +8,11 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
-<p align="center">
-  <a href="https://portfolio-d1q.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_PORTFOLIO-v2.0-0f172a?style=for-the-badge&logo=vercel&logoColor=7c3aed&labelColor=020617" alt="Portfolio Status"/>
-    <img src="https://img.shields.io/badge/🚀_CLICK_TO_VIEW-7c3aed?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Link"/>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://portfolio-d1q.pages.dev/" target="_blank" style="display: inline-block; width: 80%; max-width: 400px; padding: 16px 0; background: linear-gradient(90deg, #6d28d9, #9333ea); color: #ffffff; font-family: sans-serif; font-size: 18px; font-weight: 800; text-align: center; text-decoration: none; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(124, 58, 237, 0.5);">
+    🌐 EXPLORE MY PORTFOLIO
   </a>
-</p>
+</div>
 <br><br>
 
 <a href="https://linkedin.com/in/atharvakulkarniark">
