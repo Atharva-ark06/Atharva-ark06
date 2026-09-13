@@ -8,12 +8,8 @@
 
 *Building things, breaking things, learning from them — and building them better.*
 
-<p align="center">
-  <a href="https://portfolio-d1q.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/STATUS-ONLINE_&_READY-1e1b4b?style=for-the-badge&logo=statuspage&logoColor=22c55e" alt="Status"/>
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_DEMO-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo"/>
-  </a>
-</p>
+| [🌐 **VISIT MY PORTFOLIO**](https://portfolio-d1q.pages.dev/) |
+| :---: |
 <br><br>
 
 <a href="https://linkedin.com/in/atharvakulkarniark">
@@ -85,8 +81,8 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 
-
-<div align="center">
+<div align="center"> 
+## 
 
 | 🚀 SYSTEM STATUS | 🌐 PORTFOLIO DIRECTORY |
 | :---: | :---: |
