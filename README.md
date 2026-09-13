@@ -12,7 +12,7 @@
   <a href="https://portfolio-d1q.pages.dev/">
   🌐 <b>VISIT MY PORTFOLIO</b>
   </a>
- 
+ <br></br>
   <a href="https://portfolio-d1q.pages.dev/">
     <img src="https://skillicons.dev/icons?i=portfolio" width="45" alt="Portfolio"/>
   </a>
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<br><br>
+<br></br>
 
 <a href="https://linkedin.com/in/atharvakulkarniark">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
