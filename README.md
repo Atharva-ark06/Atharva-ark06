@@ -54,12 +54,10 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 ---
 
 <div align="center">
-
 ## 🤝 Let's Connect
 
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 &nbsp;&nbsp;
