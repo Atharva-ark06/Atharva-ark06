@@ -58,6 +58,7 @@ I build AI-powered applications, full-stack projects, security experiments, and 
  
 ## 🤝 Let's Connect
 
+## 
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
