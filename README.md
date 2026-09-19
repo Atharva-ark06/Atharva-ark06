@@ -74,7 +74,6 @@ I build AI-powered applications, full-stack projects, security experiments, and 
 <a href="https://instagram.com/kulkarni_atharva_06">
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
-
 <div align="center"> 
 <br></br>
   
