@@ -2,7 +2,7 @@
 <a href="https://portfolio-d1q.pages.dev/" target="_blank"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Atharva%20Kulkarni&fontSize=58&fontColor=ffffff&animation=twinkling" width="100%" />
 </a>
-
+ 
 ### 🤖 AI/ML Developer • 🛡️ Cybersecurity Enthusiast • ⚡ Creative Technologist
 
 *Building things, breaking things, learning from them — and building them better.*
