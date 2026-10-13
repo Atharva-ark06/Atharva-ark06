@@ -1,24 +1,60 @@
-<!-- PROFILE HERO -->
+<!-- ATHARVA KULKARNI — PROFILE HERO -->
 
 <div align="center">
-  <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1791896734/n.jpg" width="180" alt="Atharva Kulkarni's profile photo" />
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" bgcolor="#0d0d0d">
+        <br><br>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="320" valign="middle" align="center">
+              <img
+                src="https://res.cloudinary.com/wpop4xyo/image/upload/v1791896734/n.jpg"
+                width="320"
+                alt="Atharva Kulkarni"
+              />
+            </td>
+            <td width="35"></td>
+            <td width="380" valign="middle" bgcolor="#191919">
+              <table width="100%" border="0" cellpadding="18" cellspacing="0">
+                <tr>
+                  <td>
+                    <h2>Atharva Kulkarni</h2>
+                    <p>
+                      <strong>AI/ML Developer · Cybersecurity Enthusiast</strong>
+                    </p>
+                    <p>
+                      Computer Science student building AI-powered applications,
+                      intelligent automation workflows, and cybersecurity projects.
+                      I enjoy turning ideas into practical tools through code,
+                      experimentation, and continuous learning.
+                    </p>
+                    <br>
+                    <a href="https://github.com/Atharva-ark06">
+                      <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+                    </a>
+                    &nbsp;
+                    <a href="https://www.linkedin.com/in/atharvakulkarniark/">
+                      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+                    </a>
+                    &nbsp;
+                    <a href="https://portfolio-d1q.pages.dev/">
+                      <img src="https://img.shields.io/badge/Portfolio-6D5DFB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <p>
+          <strong>●</strong>&nbsp; ● &nbsp;●
+        </p>
+        <br>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h1 align="center">Atharva Kulkarni</h1>
-
-<h3 align="center">AI/ML Developer · Cybersecurity Enthusiast</h3>
-
-<p align="center">
-  Building intelligent applications, exploring AI-powered automation, and developing security-focused solutions.
-</p>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atharva-ark06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvakulkarniark/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-d1q.pages.dev/)
-
-</div>
-
----
-
+<!-- END PROFILE HERO --> 
