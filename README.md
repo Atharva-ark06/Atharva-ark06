@@ -3,7 +3,7 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td width="42%" valign="middle" align="center">
+      <td width="42%" valign="middle" align="center"> 
         <img
           src="https://res.cloudinary.com/wpop4xyo/image/upload/v1791896734/n.jpg"
           width="100%"
