@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/Atharva-ark06">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,45:312E81,100:0891B2&text=ATHARVA%20KULKARNI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%2FML%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&20%Phishing emali analyst&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Atharva Kulkarni —Cybersecurity Enthusiast"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,45:312E81,100:0891B2&text=ATHARVA%20KULKARNI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%2FML%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&20%Phishingemalianalyst&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Atharva Kulkarni —Cybersecurity Enthusiast"/>
 </a>
 
 <br>
@@ -199,18 +199,9 @@ I'm continually expanding my collection of practical implementations and learnin
   <img src="https://img.shields.io/badge/Compliance-4338CA?style=flat-square&logo=verizon&logoColor=white" alt="Compliance"/>
 </p>
 
-### `06` Operating Systems & Command Line
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kali&theme=dark" height="45" alt="Kali Linux"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" alt="Linux"/>
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="45" alt="Windows"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
-</p>
 
-### `07` Programming & Security Automation
+### `06` Programming & Security Automation
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,bash,git,github,vscode&theme=dark" alt="Python, Java, Bash, Git, GitHub and VS Code"/>
