@@ -5,7 +5,7 @@
     <tr>
       <td width="42%" valign="middle" align="center"> 
         <img
-          src="https://res.cloudinary.com/wpop4xyo/image/upload/v1791896734/ n.jpg"
+          src="https://res.cloudinary.com/wpop4xyo/image/upload/v1791896734/n.jpg"
           width="100%"
           alt="Atharva Kulkarni"
         />
