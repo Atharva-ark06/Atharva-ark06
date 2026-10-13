@@ -24,10 +24,10 @@
                       <strong>AI/ML Developer · Cybersecurity Enthusiast</strong>
                     </p>
                     <p>
-                      Computer Science student building AI-powered applications,
-                      intelligent automation workflows, and cybersecurity projects.
-                      I enjoy turning ideas into practical tools through code,
-                      experimentation, and continuous learning.
+                      Computer Science student building AI-powered applications,<b></b>
+                      intelligent automation workflows, and cybersecurity projects.<b></b>b
+                      I enjoy turning ideas into practical tools through code,<b></b>
+                      experimentation, and continuous learning.<b></b>
                     </p>
                     <br>
                     <a href="https://github.com/Atharva-ark06">
