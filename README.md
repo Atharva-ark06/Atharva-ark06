@@ -1,170 +1,97 @@
- <div align="center">
+<!-- PROFILE HERO -->
 
-<a href="https://portfolio-d1q.pages.dev/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,45:123B6D,100:6D28D9&text=ATHARVA%20KULKARNI&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%7C%20CYBERSECURITY%20%7C%20SOFTWARE&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Atharva Kulkarni — AI, Cybersecurity and Software"/>
-</a>
+<div align="center">
 
-<br/>
+<img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1791896734/n.jpg" width="190" alt="Atharva Kulkarni" style="border-radius: 50%;" />
 
-<a href="https://portfolio-d1q.pages.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/Atharva-ark06"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+# Atharva Kulkarni
 
-### AI/ML Developer · Cybersecurity Enthusiast · Computer Science Student
+### AI/ML Developer · Cybersecurity Enthusiast · Prompt Engineer
 
-*Building useful systems. Understanding vulnerabilities. Engineering with purpose.*
+*Building intelligent applications at the intersection of AI, software, and security.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Atharva--ark06-181717?style=for-the-badge&logo=github)](https://github.com/Atharva-ark06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharvakulkarniark/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-d1q.pages.dev/)
 
 </div>
 
 ---
 
-## `whoami`
+## `01` — About Me
 
-I'm a Computer Science and Information Security student passionate about **artificial intelligence, cybersecurity, privacy engineering, and software development**.
+I'm a Computer Science and Information Security student interested in developing practical AI-powered solutions, exploring cybersecurity, and building useful tools through code and prompt engineering.
 
-I enjoy turning ideas into practical projects, exploring how systems work, and understanding how they can be made more secure.
-
-- **Currently exploring:** AI/ML, cybersecurity, and intelligent automation
-- **Languages:** Python, Java, JavaScript
-- **Interests:** Application security, privacy-preserving systems, and AI-powered tools
-- **Philosophy:** Learn by building. Test by breaking. Improve by securing.
+- **AI/ML:** Intelligent applications and AI-powered project development
+- **Cybersecurity:** Security labs, privacy, and secure software
+- **Prompt Engineering:** Designing and refining prompts for useful AI workflows
+- **Development:** Python, Java, JavaScript, and web technologies
 
 ---
 
-## `01 — Featured Projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AI Property Verification Intelligence
-
-AI-assisted analysis of property documents to identify missing information, inconsistencies, and potential risk indicators.
-
-**Focus**
-- Document analysis
-- Information extraction
-- Property risk reporting
-
-<a href="https://github.com/Atharva-ark06/AI-Driven-Property-Security-Verification-System">Explore Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Healthcare Data Privacy Analyzer
-
-A privacy-focused application exploring data masking techniques and the trade-offs between privacy protection and data utility.
-
-**Focus**
-- Data anonymization
-- Python · Pandas
-- Streamlit
-
-<a href="https://github.com/Atharva-ark06/Healthcare-Data-Privacy-Analyzer">Explore Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Caesar Cipher Security Lab
-
-An interactive cryptography lab featuring encryption, decryption, brute-force key exploration, frequency analysis, and audit logging.
-
-**Focus**
-- Cryptography fundamentals
-- Python · Streamlit
-- SQLite
-
-<a href="https://github.com/Atharva-ark06/CAESAR-CIPHER-SECURITY-LAB">Explore Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### More Projects & Experiments
-
-Explore my other projects in cybersecurity, AI-powered applications, automation, and software development.
-
-**Approach**
-- Hands-on experimentation
-- Practical implementations
-- Continuous improvement
-
-<a href="https://github.com/Atharva-ark06?tab=repositories">View All Repositories →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## `02 — Technology Stack`
+## `02` — Code Contributions
 
 <div align="center">
 
-### Languages
+### GitHub Activity
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Atharva-ark06&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics for Atharva Kulkarni" width="70%" />
 
-### Development & Data Tools
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-ark06&hide_border=true&theme=transparent" alt="GitHub contribution streak" width="70%" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb,react,nodejs" alt="Git, GitHub, VS Code, MySQL, MongoDB, React and Node.js"/>
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-ark06&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
+Explore my work: [Repositories](https://github.com/Atharva-ark06?tab=repositories) · [Contribution history](https://github.com/Atharva-ark06)
+
+---
+
+## `03` — Prompt Engineering Contributions
+
+<div align="center">
+
+### From prompts to practical workflows
+
+**Explore my prompt engineering work and reusable AI ideas.**
+
+[![Prompt Engineering](https://img.shields.io/badge/Explore-Prompt%20Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Atharva-ark06?tab=repositories)
+
+</div>
+
+My prompt engineering interests include:
+
+- **Prompt Design** — structuring instructions for more useful AI outputs
+- **Iteration & Refinement** — testing variations and improving clarity
+- **Workflow Automation** — connecting prompts with practical development tasks
+- **AI-Assisted Development** — using AI to explore ideas, debug, and prototype
+
+> Prompt-writing activity is not included in GitHub's coding contribution graph. This section represents my prompt engineering interests and work, not a measured contribution count.
+
+---
+
+## `04` — Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## `03 — Security & AI Focus`
-
-| Domain | Areas of Interest |
-|:--|:--|
-| **Cybersecurity** | Application security, vulnerability analysis, security testing |
-| **Artificial Intelligence** | AI/ML applications, LLM-powered workflows, automation |
-| **Privacy Engineering** | Data masking, anonymization, privacy–utility trade-offs |
-| **Cryptography** | Classical ciphers, encryption fundamentals, cryptanalysis |
-| **Software Engineering** | Python development, web applications, Git-based workflows |
-
----
-
-## `04 — GitHub Analytics`
-
 <div align="center">
 
-<a href="https://github.com/Atharva-ark06">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atharva-ark06&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=60A5FA&icon_color=818CF8" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Atharva-ark06">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA" alt="Most-used programming languages"/>
-</a>
+*Learn continuously. Build thoughtfully. Secure by design.*
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Atharva-ark06&hide_border=true&theme=transparent&ring=818CF8&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `05 — Beyond the Code`
-
-- **Hackathons:** Collaborative problem-solving and AI-focused innovation.
-- **Security labs:** Practical experimentation with cybersecurity concepts.
-- **Continuous learning:** Exploring new technologies and building projects to strengthen my skills.
-
----
-
-## `06 — Let's Connect`
-
-<div align="center">
-
-Interested in AI, cybersecurity, privacy engineering, or collaborative projects? Let's connect.
-
-<a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-
-<a href="https://portfolio-d1q.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio"/></a>
-
-<br/><br/>
-
-*Stay curious. Think critically. Build responsibly.*
+**Thanks for visiting my profile.**
 
 </div>
