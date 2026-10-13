@@ -237,11 +237,13 @@ I'm continually expanding my collection of practical implementations and learnin
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages"/>
 </a>
 
+
 <br><br>
 
 <a href="https://github.com/Atharva-ark06">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva-ark06&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=38BDF8&area=true&area_color=312E81&hide_border=true" alt="GitHub contribution activity graph"/>
 </a>
+```
 
 </div>
 
