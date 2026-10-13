@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/Atharva-ark06">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,45:312E81,100:0891B2&text=ATHARVA%20KULKARNI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%2FML%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Atharva Kulkarni —Cybersecurity Enthusiast- Pen tester - Phishing emali analyst"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,45:312E81,100:0891B2&text=ATHARVA%20KULKARNI&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%2FML%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&20%Phishing emali analyst&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Atharva Kulkarni —Cybersecurity Enthusiast"/>
 </a>
 
 <br>
