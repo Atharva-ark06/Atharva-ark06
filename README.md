@@ -142,28 +142,61 @@ I'm continually expanding my collection of practical implementations and learnin
 </tr>
 </table>
 
-## `03` — Technology stack
+## `03` — Cybersecurity & Technical Skills
 
 <div align="center">
 
-**LANGUAGES**
+### `01` Security Operations & Analysis
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, SQL"/>
+<img src="https://img.shields.io/badge/SOC%20Analysis-1F6FEB?style=for-the-badge" alt="SOC Analysis"/>
+<img src="https://img.shields.io/badge/Security%20Monitoring-1F6FEB?style=for-the-badge" alt="Security Monitoring"/>
+<img src="https://img.shields.io/badge/Log%20Analysis-1F6FEB?style=for-the-badge" alt="Log Analysis"/>
+<img src="https://img.shields.io/badge/Incident%20Response-1F6FEB?style=for-the-badge" alt="Incident Response"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-1F6FEB?style=for-the-badge" alt="Threat Detection"/>
+<img src="https://img.shields.io/badge/IOC%20Analysis-1F6FEB?style=for-the-badge" alt="IOC Analysis"/>
+<img src="https://img.shields.io/badge/Digital%20Forensics-1F6FEB?style=for-the-badge" alt="Digital Forensics"/>
+<img src="https://img.shields.io/badge/Threat%20Intelligence-1F6FEB?style=for-the-badge" alt="Threat Intelligence"/>
 
-<br><br>
+### `02` Penetration Testing & Ethical Hacking
 
-**DEVELOPMENT & TOOLS**
+<img src="https://img.shields.io/badge/Penetration%20Testing-7C3AED?style=for-the-badge" alt="Penetration Testing"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-7C3AED?style=for-the-badge" alt="Ethical Hacking"/>
+<img src="https://img.shields.io/badge/Reconnaissance-7C3AED?style=for-the-badge" alt="Reconnaissance"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-7C3AED?style=for-the-badge" alt="Vulnerability Assessment"/>
+<img src="https://img.shields.io/badge/Network%20Scanning-7C3AED?style=for-the-badge" alt="Network Scanning"/>
+<img src="https://img.shields.io/badge/Web%20Application%20Security-7C3AED?style=for-the-badge" alt="Web Application Security"/>
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-7C3AED?style=for-the-badge" alt="OWASP Top 10"/>
+<img src="https://img.shields.io/badge/Basic%20Cryptography-7C3AED?style=for-the-badge" alt="Cryptography"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,linux&theme=dark" alt="Git, GitHub, VS Code, Node.js, React, Linux"/>
+### `03` Security Tools & Operating Systems
 
-<br><br>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 
-**AREAS OF INTEREST**
+### `04` Information Security & GRC
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Cybersecurity-0891B2?style=for-the-badge" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/Automation-0F766E?style=for-the-badge" alt="Automation"/>
+<img src="https://img.shields.io/badge/Risk%20Assessment-0F766E?style=for-the-badge" alt="Risk Assessment"/>
+<img src="https://img.shields.io/badge/Security%20Policies-0F766E?style=for-the-badge" alt="Security Policies"/>
+<img src="https://img.shields.io/badge/Access%20Control-0F766E?style=for-the-badge" alt="Access Control"/>
+<img src="https://img.shields.io/badge/GRC-0F766E?style=for-the-badge" alt="Governance Risk and Compliance"/>
+<img src="https://img.shields.io/badge/ISO%2027001-0F766E?style=for-the-badge" alt="ISO 27001"/>
+<img src="https://img.shields.io/badge/NIST%20CSF-0F766E?style=for-the-badge" alt="NIST Cybersecurity Framework"/>
+<img src="https://img.shields.io/badge/Security%20Auditing-0F766E?style=for-the-badge" alt="Security Auditing"/>
+<img src="https://img.shields.io/badge/Data%20Privacy-0F766E?style=for-the-badge" alt="Data Privacy"/>
+
+### `05` Programming & Automation
+
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode&theme=dark" alt="Python, Java, Git, GitHub and VS Code"/>
+
+<img src="https://img.shields.io/badge/Python%20Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Scripting"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Security%20Automation-6D5DFB?style=for-the-badge" alt="Security Automation"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub"/>
 
 </div>
 
