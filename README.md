@@ -1,45 +1,51 @@
+
 <!--
   KULKARNI ATHARVA | GITHUB PROFILE
   Design: Midnight / Electric Violet / Cyber Blue
 -->
 
 <div align="center">
+  <a href="https://github.com/Atharva-ark06">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,45:312E81,100:0891B2&text=KULKARNI%20ATHARVA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=ETHICAL%20HACKER%20%7C%20PENETRATION%20TESTER&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Kulkarni Atharva — Ethical Hacker and Penetration Tester"/>
+  </a>
 
-<a href="https://github.com/Atharva-ark06">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,45:312E81,100:0891B2&text=KULKARNI%20ATHARVA%20&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=PENETRATION %20TESTOR%20CYBERSECURITY%20ENTHUSIAST&20%Phishingemalianalyst&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Atharva Kulkarni —Cybersecurity Enthusiast"/>
-</a>
+  <br>
 
-<br>
+  <a href="https://github.com/Atharva-ark06">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Ethical+Hacking;Learning+Penetration+Testing;Analyzing+Phishing+%26+Email+Threats;Building+Security+Automation+Tools;Developing+Practical+Cybersecurity+Projects" alt="Animated cybersecurity tagline"/>
+  </a>
 
-<a href="https://github.com/Atharva-ark06">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+applications;Exploring+AI+%26+machine+learning;Engineering+security-focused+solutions;Automating+ideas+into+real+tools" alt="Animated developer tagline"/>
-</a>
+  <br><br>
 
-<br><br>
-
-<a href="https://github.com/Atharva-ark06"><img src="https://img.shields.io/badge/GitHub-Atharva--ark06-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-d1q.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-
+  <a href="https://github.com/Atharva-ark06">
+    <img src="https://img.shields.io/badge/GitHub-Atharva--ark06-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/atharvakulkarniark/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-d1q.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
 
-## `01` — About me
+## `01` — About Me
 
 <table>
 <tr>
 <td width="65%" valign="middle">
 
-I'm a Computer Science and Information Security student at **G M University**, interested in building practical solutions at the intersection of artificial intelligence, automation, and cybersecurity.
+I'm a Computer Science and Information Security student at **G M University**, interested in cybersecurity, ethical hacking, and building practical technology solutions.
 
-- Building AI-powered applications and developer tools
-- Exploring information security, privacy, and secure systems
-- Developing Python-based automation and data analysis projects
-- Experimenting with LLMs, prompt engineering, and AI workflows
-- Learning by building, testing, and continuously improving
+- Exploring penetration testing and ethical hacking
+- Learning security operations, threat analysis, and incident response
+- Investigating phishing attacks and email-based threats
+- Building Python-based security automation and analysis tools
+- Developing projects involving data privacy and secure systems
+- Exploring AI, automation, and intelligent security workflows
 
-**Current focus:** AI engineering · Cybersecurity · Intelligent automation
+**Current focus:** Cybersecurity · Ethical Hacking · Penetration Testing · Security Automation
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -54,7 +60,7 @@ I'm a Computer Science and Information Security student at **G M University**, i
 </tr>
 </table>
 
-## `02` — Featured projects
+## `02` — Featured Projects
 
 Projects where I explore practical applications of AI, privacy engineering, and information security.
 
@@ -124,7 +130,7 @@ An interactive cryptography lab demonstrating classical encryption, brute-force 
 </td>
 <td width="50%" valign="top">
 
-<h3>04 · More experiments</h3>
+<h3>04 · More Experiments</h3>
 
 <a href="https://github.com/Atharva-ark06?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-A78BFA?style=flat-square" alt="Explore repositories"/>
@@ -141,6 +147,7 @@ I'm continually expanding my collection of practical implementations and learnin
 </td>
 </tr>
 </table>
+
 ## `03` — Cybersecurity & Technical Skills
 
 ### `01` Security Operations Center (SOC)
@@ -167,7 +174,17 @@ I'm continually expanding my collection of practical implementations and learnin
   <img src="https://img.shields.io/badge/Gobuster-24292F?style=flat-square&logo=gnometerminal&logoColor=white" alt="Gobuster"/>
 </p>
 
-### `03` Exploit Research & Vulnerability Analysis
+### `03` Phishing & Email Threat Analysis
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Phishing%20Detection-7F1D1D?style=flat-square&logo=protonmail&logoColor=white" alt="Phishing Detection"/>
+  <img src="https://img.shields.io/badge/Email%20Header%20Analysis-7F1D1D?style=flat-square&logo=gmail&logoColor=white" alt="Email Header Analysis"/>
+  <img src="https://img.shields.io/badge/Social%20Engineering%20Awareness-7F1D1D?style=flat-square&logo=securityscorecard&logoColor=white" alt="Social Engineering Awareness"/>
+  <img src="https://img.shields.io/badge/URL%20Analysis-7F1D1D?style=flat-square&logo=googlechrome&logoColor=white" alt="URL Analysis"/>
+  <img src="https://img.shields.io/badge/Threat%20Investigation-7F1D1D?style=flat-square&logo=virustotal&logoColor=white" alt="Threat Investigation"/>
+</p>
+
+### `04` Exploit Research & Vulnerability Analysis
 
 <p align="left">
   <img src="https://img.shields.io/badge/EternalBlue-7F1D1D?style=flat-square&logo=windows&logoColor=white" alt="EternalBlue"/>
@@ -177,7 +194,7 @@ I'm continually expanding my collection of practical implementations and learnin
   <img src="https://img.shields.io/badge/Proof%20of%20Concept-7F1D1D?style=flat-square&logo=git&logoColor=white" alt="Proof of Concept"/>
 </p>
 
-### `04` Information Security & Access Control
+### `05` Information Security & Access Control
 
 <p align="left">
   <img src="https://img.shields.io/badge/RBAC-0F766E?style=flat-square&logo=auth0&logoColor=white" alt="Role-Based Access Control"/>
@@ -188,7 +205,7 @@ I'm continually expanding my collection of practical implementations and learnin
   <img src="https://img.shields.io/badge/Data%20Privacy-0F766E?style=flat-square&logo=proton&logoColor=white" alt="Data Privacy"/>
 </p>
 
-### `05` Governance, Risk & Compliance (GRC)
+### `06` Governance, Risk & Compliance (GRC)
 
 <p align="left">
   <img src="https://img.shields.io/badge/ISO%2027001-4338CA?style=flat-square&logo=iso&logoColor=white" alt="ISO 27001"/>
@@ -199,16 +216,17 @@ I'm continually expanding my collection of practical implementations and learnin
   <img src="https://img.shields.io/badge/Compliance-4338CA?style=flat-square&logo=verizon&logoColor=white" alt="Compliance"/>
 </p>
 
-
-
-### `06` Programming & Security Automation
+### `07` Programming & Security Automation
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,bash,git,github,vscode&theme=dark" alt="Python, Java, Bash, Git, GitHub and VS Code"/>
 </p>
 
 `Python Scripting` · `SQL` · `Shell Scripting` · `Security Automation` · `Log Parsing` · `Git Version Control`
-## `04` — GitHub activity
+
+---
+
+## `04` — GitHub Activity
 
 <div align="center">
 
@@ -227,7 +245,7 @@ I'm continually expanding my collection of practical implementations and learnin
 
 </div>
 
-## `05` — Hackathons & achievements
+## `05` — Hackathons & Achievements
 
 <table>
 <tr>
@@ -253,7 +271,7 @@ Participated in the December 2025 hackathon focused on AI in Education. Achieved
 <tr>
 <td colspan="2" valign="top">
 
-**Certifications & learning**
+**Certifications & Learning**
 
 Explore my [certificates repository](https://github.com/Atharva-ark06/certificates) for available course certificates, technical learning, and professional development.
 
@@ -261,7 +279,7 @@ Explore my [certificates repository](https://github.com/Atharva-ark06/certificat
 </tr>
 </table>
 
-## `06` — Beyond the code
+## `06` — Beyond the Code
 
 <div align="center">
 
@@ -271,9 +289,11 @@ Explore my [certificates repository](https://github.com/Atharva-ark06/certificat
 
 <br>
 
-**Interested in AI engineering, cybersecurity, and meaningful developer tools.**
+**Interested in cybersecurity, ethical hacking, and meaningful developer tools.**
 
-<a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="https://img.shields.io/badge/HAVE%20AN%20IDEA%3F-LET'S%20CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/atharvakulkarniark/">
+  <img src="https://img.shields.io/badge/HAVE%20AN%20IDEA%3F-LET'S%20CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"/>
+</a>
 
 <br><br>
 
