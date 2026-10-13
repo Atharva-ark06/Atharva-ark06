@@ -141,59 +141,82 @@ I'm continually expanding my collection of practical implementations and learnin
 </td>
 </tr>
 </table>
-
 ## `03` — Cybersecurity & Technical Skills
 
-<div align="center">
+### `01` Security Operations Center (SOC)
 
-## `03` — Cybersecurity & Technical Skills
-
-### Security Operations & Analysis
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" alt="Linux"/>
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" height="45" alt="Elasticsearch"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/SOC%20Analysis-111827?style=flat-square&logo=securityscorecard&logoColor=white" alt="SOC Analysis"/>
+  <img src="https://img.shields.io/badge/Log%20Analysis-111827?style=flat-square&logo=elastic&logoColor=white" alt="Log Analysis"/>
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-111827?style=flat-square&logo=virustotal&logoColor=white" alt="Threat Intelligence"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-111827?style=flat-square&logo=opsgenie&logoColor=white" alt="Incident Response"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-111827?style=flat-square&logo=autopsy&logoColor=white" alt="Digital Forensics"/>
+  <img src="https://img.shields.io/badge/Network%20Analysis-111827?style=flat-square&logo=wireshark&logoColor=white" alt="Network Analysis"/>
 </p>
 
-`SOC Analysis` · `Log Analysis` · `Threat Detection` · `Incident Response` · `Digital Forensics` · `Threat Intelligence` · `Security Monitoring`
+### `02` Penetration Testing & Ethical Hacking
 
-### Penetration Testing & Ethical Hacking
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square&logo=linux&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/SearchSploit-24292F?style=flat-square&logo=github&logoColor=white" alt="SearchSploit"/>
+  <img src="https://img.shields.io/badge/SQLmap-24292F?style=flat-square&logo=databricks&logoColor=white" alt="SQLmap"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Gobuster-24292F?style=flat-square&logo=gnometerminal&logoColor=white" alt="Gobuster"/>
+</p>
 
-<p>
+### `03` Exploit Research & Vulnerability Analysis
+
+<p align="left">
+  <img src="https://img.shields.io/badge/EternalBlue-7F1D1D?style=flat-square&logo=windows&logoColor=white" alt="EternalBlue"/>
+  <img src="https://img.shields.io/badge/Exploit%20Research-7F1D1D?style=flat-square&logo=hackthebox&logoColor=white" alt="Exploit Research"/>
+  <img src="https://img.shields.io/badge/CVE%20Analysis-7F1D1D?style=flat-square&logo=cve&logoColor=white" alt="CVE Analysis"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-7F1D1D?style=flat-square&logo=owasp&logoColor=white" alt="Vulnerability Assessment"/>
+  <img src="https://img.shields.io/badge/Proof%20of%20Concept-7F1D1D?style=flat-square&logo=git&logoColor=white" alt="Proof of Concept"/>
+</p>
+
+### `04` Information Security & Access Control
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RBAC-0F766E?style=flat-square&logo=auth0&logoColor=white" alt="Role-Based Access Control"/>
+  <img src="https://img.shields.io/badge/ABAC-0F766E?style=flat-square&logo=auth0&logoColor=white" alt="Attribute-Based Access Control"/>
+  <img src="https://img.shields.io/badge/IAM-0F766E?style=flat-square&logo=keycloak&logoColor=white" alt="Identity and Access Management"/>
+  <img src="https://img.shields.io/badge/Least%20Privilege-0F766E?style=flat-square&logo=letsencrypt&logoColor=white" alt="Least Privilege"/>
+  <img src="https://img.shields.io/badge/Cryptography-0F766E?style=flat-square&logo=letsencrypt&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/Data%20Privacy-0F766E?style=flat-square&logo=proton&logoColor=white" alt="Data Privacy"/>
+</p>
+
+### `05` Governance, Risk & Compliance (GRC)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ISO%2027001-4338CA?style=flat-square&logo=iso&logoColor=white" alt="ISO 27001"/>
+  <img src="https://img.shields.io/badge/NIST%20CSF-4338CA?style=flat-square&logo=nist&logoColor=white" alt="NIST Cybersecurity Framework"/>
+  <img src="https://img.shields.io/badge/Risk%20Assessment-4338CA?style=flat-square&logo=checkmarx&logoColor=white" alt="Risk Assessment"/>
+  <img src="https://img.shields.io/badge/Security%20Auditing-4338CA?style=flat-square&logo=qualys&logoColor=white" alt="Security Auditing"/>
+  <img src="https://img.shields.io/badge/Policy%20Development-4338CA?style=flat-square&logo=readthedocs&logoColor=white" alt="Security Policies"/>
+  <img src="https://img.shields.io/badge/Compliance-4338CA?style=flat-square&logo=verizon&logoColor=white" alt="Compliance"/>
+</p>
+
+### `06` Operating Systems & Command Line
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=kali&theme=dark" height="45" alt="Kali Linux"/>
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="45" alt="Windows"/>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
 </p>
 
-`Penetration Testing` · `Ethical Hacking` · `Reconnaissance` · `Vulnerability Assessment` · `Network Scanning` · `OWASP Top 10` · `Web Application Security`
+### `07` Programming & Security Automation
 
-### Security Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,git,github,vscode&theme=dark" alt="Kali Linux, Linux, Bash, Python, Git, GitHub, VS Code"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,bash,git,github,vscode&theme=dark" alt="Python, Java, Bash, Git, GitHub and VS Code"/>
 </p>
 
-`Nmap` · `Wireshark` · `Burp Suite` · `Metasploit` · `VirtualBox` · `Network Analysis`
-
-### Information Security & GRC
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,python&theme=dark" alt="Linux, Git, GitHub, Python"/>
-</p>
-
-`Risk Assessment` · `Governance, Risk & Compliance (GRC)` · `Security Auditing` · `Access Control` · `Security Policies` · `Data Privacy` · `ISO 27001` · `NIST Cybersecurity Framework`
-
-### Programming & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,bash,git,github,vscode&theme=dark" alt="Python, Java, Bash, Git, GitHub, VS Code"/>
-</p>
-
-`Python Scripting` · `SQL` · `Security Automation` · `Linux Command Line` · `Git Version Control`
-</div>
+`Python Scripting` · `SQL` · `Shell Scripting` · `Security Automation` · `Log Parsing` · `Git Version Control`
 ## `04` — GitHub activity
 
 <div align="center">
