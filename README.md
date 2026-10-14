@@ -294,9 +294,6 @@ Explore my [certificates repository](https://github.com/Atharva-ark06/certificat
 <br><br>
 
 
-
-<br><br>
-
 <sub>Designed with curiosity. Built with code. Improved one commit at a time.</sub>
 
 </div>
