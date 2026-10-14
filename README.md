@@ -291,9 +291,6 @@ Explore my [certificates repository](https://github.com/Atharva-ark06/certificat
   <img src="https://img.shields.io/badge/HAVE%20AN%20IDEA%3F-LET'S%20CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"/>
 </a>
 
-<br><br>
-
-
 <sub>Designed with curiosity. Built with code. Improved one commit at a time.</sub>
 
 </div>
