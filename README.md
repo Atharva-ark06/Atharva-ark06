@@ -293,7 +293,7 @@ Explore my [certificates repository](https://github.com/Atharva-ark06/certificat
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Atharva-ark06&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+
 
 <br><br>
 
