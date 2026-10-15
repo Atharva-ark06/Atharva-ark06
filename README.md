@@ -269,7 +269,7 @@ Participated in the December 2025 hackathon focused on AI in Education. Achieved
 
 **Certifications & Learning**
 
-Explore my [certificates repository](https://github.com/Atharva-ark06/certificates) for available course certificates, technical learning, and professional development.
+Explore my [certificates repository](https://github.com/Atharva-ark06/certificates-portfolio-.git) for available course certificates, technical learning, and professional development.
 
 </td>
 </tr>
