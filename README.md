@@ -275,15 +275,7 @@ Explore my [certificates repository](https://github.com/Atharva-ark06/certificat
 </tr>
 </table>
 
-## `06` — Beyond the Code
 
-<div align="center">
-
-| `01` Learn | `02` Build | `03` Improve |
-|:---:|:---:|:---:|
-| Explore new technologies | Turn ideas into projects | Refine through experimentation |
-
-<br>
 
 **Interested in cybersecurity, ethical hacking, and meaningful developer tools.**
 
