@@ -239,33 +239,7 @@ I'm continually expanding my collection of practical implementations and learnin
 <br><br>
 
 
-</div>
 
-## `05` — Hackathons & Achievements
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Hack Kshetra 2.0**
-
-<img src="https://img.shields.io/badge/RESULT-TOP%205%20AI-7C3AED?style=flat-square" alt="Top five AI domain"/>
-
-Participated in the 24-hour hackathon at VVCE, Mysuru, in November 2025. Achieved a top-five position in the AI domain.
-
-</td>
-<td width="50%" valign="top">
-
-**INGINTRON — GM University**
-
-<img src="https://img.shields.io/badge/RESULT-TOP%205%20DOMAIN-0891B2?style=flat-square" alt="Top five domain"/>
-
-Participated in the December 2025 hackathon focused on AI in Education. Achieved a top-five position in the domain.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
 **Certifications & Learning**
 
