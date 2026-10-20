@@ -1,7 +1,7 @@
  <!--
   KULKARNI ATHARVA | GITHUB PROFILE
   Design: Midnight / Electric Violet / Cyber Blue
--->
+--> 
 
 <div align="center">
   <a href="https://github.com/Atharva-ark06">
