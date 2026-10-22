@@ -1,4 +1,4 @@
- <!--
+ <!-- 
   KULKARNI ATHARVA | GITHUB PROFILE
   Design: Midnight / Electric Violet / Cyber Blue
 --> 
@@ -14,7 +14,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Ethical+Hacking;Learning+Penetration+Testing;Analyzing+Phishing+%26+Email+Threats;Building+Security+Automation+Tools;Developing+Practical+Cybersecurity+Projects" alt="Animated cybersecurity tagline"/>
   </a>
 
-  <br><br>
+ 
 
   <a href="https://github.com/Atharva-ark06">
     <img src="https://img.shields.io/badge/GitHub-Atharva--ark06-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
