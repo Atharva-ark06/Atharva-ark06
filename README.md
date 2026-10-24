@@ -1,5 +1,5 @@
  <!-- 
-  KULKARNI ATHARVA |  GITHUB PROFILE
+   KULKARNI ATHARVA |  GITHUB PROFILE
   Design: Midnight / Electric Violet / Cyber Blue
 --> 
  
