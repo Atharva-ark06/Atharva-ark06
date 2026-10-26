@@ -3,7 +3,7 @@
   Design: Midnight / Electric Violet / Cyber Blue
 --> 
  
-<div align="center">
+<div align="center"> 
   <a href="https://github.com/Atharva-ark06">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,45:312E81,100:0891B2&text=KULKARNI%20ATHARVA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=ETHICAL%20HACKER%20%7C%20PENETRATION%20TESTER&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Kulkarni Atharva — Ethical Hacker and Penetration Tester"/>
   </a>
