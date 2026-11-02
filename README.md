@@ -227,10 +227,7 @@ I'm continually expanding my collection of practical implementations and learnin
 
 <br><br>
 
-
-
-
-**Certifications & Learning**
+### **Certifications & Learning**
 
 Explore my [certificates repository](https://github.com/Atharva-ark06/certificates-portfolio-.git) for available course certificates, technical learning, and professional development.
 
