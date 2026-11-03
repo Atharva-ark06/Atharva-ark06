@@ -4,7 +4,7 @@
   <tr><td align="center" colspan="3"><img src="./assets/header.svg" width="790" alt="Atharva Kulkarni — securing the cyber frontier"/></td></tr>
   <tr>
     <td align="center" valign="middle" width="30%"><a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="./assets/linkedin.svg" width="230" alt="LinkedIn"/></a><br/><br/><br/><a href="mailto:atharvaark2006@gmail.com"><img src="./assets/gmail.svg" width="230" alt="Email Atharva"/></a></td>
-    <td align="center" valign="middle" width="40%"><img src="https://github.com/Atharva-ark06.png" width="190" alt="Atharva's GitHub avatar"/><br/><br/><samp>BUILD · SECURE · AUTOMATE</samp></td>
+    <td align="center" valign="middle" width="40%"><img src="./assets/atharva-pixel.svg" width="190" alt="Pixel art character at a computer"/><br/><br/><samp>BUILD · SECURE · AUTOMATE</samp></td>
     <td align="center" valign="middle" width="30%"><a href="https://github.com/Atharva-ark06"><img src="./assets/github.svg" width="230" alt="GitHub"/></a><br/><br/><br/><a href="https://portfolio-d1q.pages.dev/"><img src="./assets/portfolio.svg" width="230" alt="Portfolio"/></a></td>
   </tr>
 </table>
