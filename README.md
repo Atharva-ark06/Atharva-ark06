@@ -1,18 +1,26 @@
-<!-- ATHARVA KULKARNI | PROFILE README -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:111827,55:4C1D95,78:6D28D9,100:0891B2&text=ATHARVA%20KULKARNI&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=SECURITY%20MINDED.%20AI%20POWERED.%20BUILDER%20AT%20HEART.&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Atharva Kulkarni — cybersecurity and AI developer hero banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Cybersecurity+%7C+Ethical+Hacking+%26+VAPT;Computer+Science+%40+G+M+University;Exploring+AI%2FML+%7C+Building+Practical+Tools;BUILD.+SECURE.+AUTOMATE." alt="Animated cybersecurity, university, AI and build-secure-automate hero text"/>
-
-<p>
-<a href="https://github.com/Atharva-ark06"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
-<a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-d1q.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-</p>
-
-</div>
+<!-- Header -->
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/header.svg" width="790" alt="Atharva Kulkarni — Cybersecurity Practitioner" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="./assets/linkedin.svg" width="230" alt="LinkedIn — Atharva Kulkarni" /></a>
+      <br><br><br>
+      <a href="mailto:atharvaark2006@gmail.com"><img src="./assets/gmail.svg" width="230" alt="Gmail — atharvaark2006@gmail.com" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/atharva-pixel.svg" width="330" alt="Pixel art avatar representing Atharva at his desk" />
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Atharva-ark06"><img src="./assets/github.svg" width="230" alt="GitHub — Atharva-ark06" /></a>
+      <br><br><br>
+      <a href="https://portfolio-d1q.pages.dev/"><img src="./assets/portfolio.svg" width="230" alt="Portfolio — Atharva Kulkarni" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
