@@ -1,19 +1,86 @@
 <!-- ATHARVA KULKARNI | PROFILE README -->
 
+<!-- HERO SECTION: inspired by the editorial, 3-column composition in the reference -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:111827,55:4C1D95,78:6D28D9,100:0891B2&text=ATHARVA%20KULKARNI&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=SECURITY%20MINDED.%20AI%20POWERED.%20BUILDER%20AT%20HEART.&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Atharva Kulkarni — cybersecurity and AI developer hero banner"/>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3" align="center" bgcolor="#0D1117">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Cybersecurity+%7C+Ethical+Hacking+%26+VAPT;Computer+Science+%40+G+M+University;Exploring+AI%2FML+%7C+Building+Practical+Tools;BUILD.+SECURE.+AUTOMATE." alt="Animated cybersecurity, university, AI and build-secure-automate hero text"/>
+<br/>
 
-<p>
-<a href="https://github.com/Atharva-ark06"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
-<a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-d1q.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+<sub><b> A T H A R V A &nbsp; K U L K A R N I </b> &nbsp; · &nbsp; <font color="#8B949E"> C Y B E R S E C U R I T Y &nbsp; &amp; &nbsp; A I / M L </font></sub>
+
+<br/><br/>
+
+<h1><i>🛡️ securing the <font color="#58A6FF">digital frontier</font></i></h1>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,50:8B5CF6,100:EF4444" width="38%" alt="Blue violet and red accent line"/>
+
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center" bgcolor="#161B22">
+
+<br/>
+
+<a href="https://www.linkedin.com/in/atharvakulkarniark/">
+<img src="https://img.shields.io/badge/↗-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/>
+<b><a href="https://www.linkedin.com/in/atharvakulkarniark/">Atharva Kulkarni</a></b>
+
+<br/><br/><br/>
+
+<a href="mailto:atharvaark2006@gmail.com">
+<img src="https://img.shields.io/badge/↗-EMAIL-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
+<b><a href="mailto:atharvaark2006@gmail.com">atharvaark2006@gmail.com</a></b>
+
+<br/><br/>
+</td>
+<td width="40%" align="center" bgcolor="#0D1117">
+
+<br/><br/>
+
+<img src="https://github.com/Atharva-ark06.png" width="190" alt="Atharva's GitHub avatar"/>
+
+<br/><br/>
+
+<sub><b>BUILD · SECURE · AUTOMATE</b></sub>
+
+<br/><br/>
+</td>
+<td width="30%" align="center" bgcolor="#161B22">
+
+<br/>
+
+<a href="https://github.com/Atharva-ark06">
+<img src="https://img.shields.io/badge/↗-GITHUB-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/>
+<b><a href="https://github.com/Atharva-ark06">Atharva-ark06</a></b>
+
+<br/><br/><br/>
+
+<a href="https://portfolio-d1q.pages.dev/">
+<img src="https://img.shields.io/badge/↗-PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/>
+<b><a href="https://portfolio-d1q.pages.dev/">portfolio-d1q.pages.dev</a></b>
+
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## 👋 About
