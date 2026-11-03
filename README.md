@@ -1,86 +1,30 @@
 <!-- ATHARVA KULKARNI | PROFILE README -->
 
-<!-- HERO SECTION: inspired by the editorial, 3-column composition in the reference -->
-<div align="center">
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td colspan="3" align="center" bgcolor="#0D1117">
-
-<br/>
-
-<sub><b> A T H A R V A &nbsp; K U L K A R N I </b> &nbsp; · &nbsp; <font color="#8B949E"> C Y B E R S E C U R I T Y &nbsp; &amp; &nbsp; A I / M L </font></sub>
-
-<br/><br/>
-
-<h1><i>🛡️ securing the <font color="#58A6FF">digital frontier</font></i></h1>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,50:8B5CF6,100:EF4444" width="38%" alt="Blue violet and red accent line"/>
-
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td width="30%" align="center" bgcolor="#161B22">
-
-<br/>
-
-<a href="https://www.linkedin.com/in/atharvakulkarniark/">
-<img src="https://img.shields.io/badge/↗-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/>
-<b><a href="https://www.linkedin.com/in/atharvakulkarniark/">Atharva Kulkarni</a></b>
-
-<br/><br/><br/>
-
-<a href="mailto:atharvaark2006@gmail.com">
-<img src="https://img.shields.io/badge/↗-EMAIL-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/>
-<b><a href="mailto:atharvaark2006@gmail.com">atharvaark2006@gmail.com</a></b>
-
-<br/><br/>
-</td>
-<td width="40%" align="center" bgcolor="#0D1117">
-
-<br/><br/>
-
-<img src="https://github.com/Atharva-ark06.png" width="190" alt="Atharva's GitHub avatar"/>
-
-<br/><br/>
-
-<sub><b>BUILD · SECURE · AUTOMATE</b></sub>
-
-<br/><br/>
-</td>
-<td width="30%" align="center" bgcolor="#161B22">
-
-<br/>
-
-<a href="https://github.com/Atharva-ark06">
-<img src="https://img.shields.io/badge/↗-GITHUB-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/>
-<b><a href="https://github.com/Atharva-ark06">Atharva-ark06</a></b>
-
-<br/><br/><br/>
-
-<a href="https://portfolio-d1q.pages.dev/">
-<img src="https://img.shields.io/badge/↗-PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/>
-<b><a href="https://portfolio-d1q.pages.dev/">portfolio-d1q.pages.dev</a></b>
-
-<br/><br/>
-</td>
-</tr>
+<!-- Header -->
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" colspan="3">
+      <img src="./assets/header.svg" width="790" alt="Atharva Kulkarni — Cybersecurity and AI/ML" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="./assets/linkedin.svg" width="230" alt="LinkedIn — Atharva Kulkarni" /></a>
+      <br><br><br>
+      <a href="mailto:atharvaark2006@gmail.com"><img src="./assets/gmail.svg" width="230" alt="Gmail — atharvaark2006@gmail.com" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/atharva-pixel.svg" width="330" alt="Pixel-art avatar representing Atharva at a computer" />
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Atharva-ark06"><img src="./assets/github.svg" width="230" alt="GitHub — Atharva-ark06" /></a>
+      <br><br><br>
+      <a href="https://portfolio-d1q.pages.dev/"><img src="./assets/portfolio.svg" width="230" alt="Portfolio — Atharva Kulkarni" /></a>
+    </td>
+  </tr>
 </table>
 
-</div>
+
 ---
 
 ## 👋 About
