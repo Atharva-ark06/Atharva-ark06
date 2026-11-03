@@ -1,108 +1,58 @@
-<!-- Header -->
+<!-- ATHARVA KULKARNI | GitHub Profile -->
+
 <table align="center">
+  <tr><td align="center" colspan="3"><img src="./assets/header.svg" width="790" alt="Atharva Kulkarni — securing the cyber frontier"/></td></tr>
   <tr>
-    <td align="center" valign="middle" colspan="3">
-      <img src="./assets/header.svg" width="790" alt="Haris Zamir — Cybersecurity Practitioner" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://www.linkedin.com/in/haris-zamir/"><img src="./assets/linkedin.svg" width="230" alt="LinkedIn — Haris Zamir" /></a>
-      <br><br><br>
-      <a href="mailto:hariszamir07@gmail.com"><img src="./assets/gmail.svg" width="230" alt="Gmail hariszamir07@gmail.com" /></a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/haris-gif.gif" width="330" alt="Pixel art of Haris at his desk" />
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.credly.com/users/haris-zamir"><img src="./assets/credly.svg" width="230" alt="Credly — Haris-Zamir" /></a>
-      <br><br><br>
-      <a href="https://learn.microsoft.com/en-us/users/hariszamir-3654/"><img src="./assets/mslearn.svg" width="230" alt="Microsoft Learn — HarisZamir-3654" /></a>
-    </td>
+    <td align="center" valign="middle" width="30%"><a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="./assets/linkedin.svg" width="230" alt="LinkedIn"/></a><br/><br/><br/><a href="mailto:atharvaark2006@gmail.com"><img src="./assets/gmail.svg" width="230" alt="Email Atharva"/></a></td>
+    <td align="center" valign="middle" width="40%"><img src="https://github.com/Atharva-ark06.png" width="190" alt="Atharva's GitHub avatar"/><br/><br/><samp>BUILD · SECURE · AUTOMATE</samp></td>
+    <td align="center" valign="middle" width="30%"><a href="https://github.com/Atharva-ark06"><img src="./assets/github.svg" width="230" alt="GitHub"/></a><br/><br/><br/><a href="https://portfolio-d1q.pages.dev/"><img src="./assets/portfolio.svg" width="230" alt="Portfolio"/></a></td>
   </tr>
 </table>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Ethical+Hacking+%26+VAPT;Information+Security+Student+%40+G+M+University;Python+%7C+Security+Tools+%7C+AI%2FML+Projects" alt="Cybersecurity, university and development focus"/></p>
+
 ---
 
-## 👋 About
+## About Me
 
-I'm **Atharva Kulkarni**, a 3rd-year Computer Science & Engineering student specializing in **Information Security** at G M University. I like learning by building, breaking down how systems work, and finding ways to make technology more useful and secure.
+Hey! I'm **Atharva Kulkarni** — a Computer Science & Engineering student specializing in **Information Security** at G M University.
 
-- 🛡️ Cybersecurity, Ethical Hacking & VAPT
-- 🌐 Network Security, Reconnaissance & Security Monitoring
-- 🤖 AI/ML experiments and practical applications
-- ⚙️ Python, automation, and developer tooling
+I enjoy exploring how systems work, building practical tools, and applying security-minded thinking to software and AI.
 
-## 🎯 Current Focus
+- 🔐 Cybersecurity · Ethical Hacking · VAPT
+- 🌐 Network security · Traffic analysis · Security monitoring
+- 🤖 AI/ML experimentation · AI-powered applications
+- ⚙️ Python · Java · Automation · Developer tooling
 
-| Security | AI & Engineering |
-|---|---|
-| Vulnerability Assessment | Python & Java |
-| Network & Web Security | ML fundamentals |
-| Security Monitoring / SOC | APIs & automation |
-| Cryptography & Privacy | AI-powered applications |
+## Focus Areas
 
-## 🚀 Featured Projects
+<table><tr>
+<td width="50%" valign="top"><h3>🛡️ Security</h3><ul><li>Vulnerability assessment</li><li>Network & web security</li><li>Reconnaissance & traffic analysis</li><li>Cryptography & data privacy</li><li>Security monitoring / SOC concepts</li></ul></td>
+<td width="50%" valign="top"><h3>🧠 AI & Engineering</h3><ul><li>Python development</li><li>AI/ML fundamentals</li><li>APIs & workflow automation</li><li>Full-stack project exploration</li><li>Practical developer tools</li></ul></td>
+</tr></table>
 
-<details>
-<summary><b>🔐 Caesar Cipher Security Lab</b></summary>
-Cryptography learning lab with encryption/decryption, brute-force exploration, frequency analysis, and audit logging.
+## Featured Work
 
-[Repository](https://github.com/Atharva-ark06/CAESAR-CIPHER-SECURITY-LAB)
-</details>
+<table>
+<tr><td width="50%" valign="top"><h3>🔐 Caesar Cipher Security Lab</h3>Cryptography lab with encryption/decryption, brute-force exploration, frequency analysis and audit logs.<br/><br/><a href="https://github.com/Atharva-ark06/CAESAR-CIPHER-SECURITY-LAB">View project ↗</a></td>
+<td width="50%" valign="top"><h3>🏥 Healthcare Data Privacy Analyzer</h3>Streamlit project exploring privacy-preserving healthcare microdata, anonymization and risk analysis.<br/><br/><a href="https://github.com/Atharva-ark06/Healthcare-Data-Privacy-Analyzer">View project ↗</a></td></tr>
+<tr><td width="50%" valign="top"><h3>🏡 AI Property Verification</h3>AI-assisted document review concept to surface missing information, mismatches and verification risks.<br/><br/><a href="https://github.com/Atharva-ark06/AI-Driven-Property-Security-Verification-System">View project ↗</a></td>
+<td width="50%" valign="top"><h3>🛰️ SentinelForge</h3>Security monitoring learning project for collecting authentication events and generating rule-based alerts.<br/><br/><a href="https://github.com/Atharva-ark06?tab=repositories">Explore repositories ↗</a></td></tr>
+</table>
 
-<details>
-<summary><b>🏥 Healthcare Data Privacy Analyzer</b></summary>
-A Streamlit project exploring privacy-preserving healthcare microdata release, masking, and risk analysis.
+## Tech Stack & Tools
 
-[Repository](https://github.com/Atharva-ark06/Healthcare-Data-Privacy-Analyzer)
-</details>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql,bash,git,github,vscode,windows,linux&theme=dark" alt="Languages and developer tools"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square&logo=linux&logoColor=white"/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white"/></p>
 
-<details>
-<summary><b>🏡 AI Property Security Verification</b></summary>
-AI-assisted concept for reviewing property documents and surfacing missing information, mismatches, and verification risks.
+## GitHub Snapshot
 
-[Repository](https://github.com/Atharva-ark06/AI-Driven-Property-Security-Verification-System)
-</details>
+<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Atharva-ark06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/><br/><img height="165" src="https://streak-stats.demolab.com?user=Atharva-ark06&theme=tokyonight&hide_border=true" alt="Contribution streak"/></p>
 
-<details>
-<summary><b>🛰️ SentinelForge</b></summary>
-A security monitoring learning project for collecting authentication events and generating rule-based alerts.
-</details>
+## Certifications & Learning
 
-➡️ [Explore all repositories](https://github.com/Atharva-ark06?tab=repositories)
+<p align="center"><a href="https://github.com/Atharva-ark06/certificates-portfolio-"><img src="https://img.shields.io/badge/Certificates-Explore%20Learning-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Certificates and learning"/></a></p>
 
-## 🧰 Tech Stack
+---
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql,bash,git,github,vscode,windows,linux&theme=dark" alt="Languages and developer tools"/>
-<br/>
-<img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square&logo=linux&logoColor=white" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
-</div>
-
-## 📈 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Atharva-ark06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=Atharva-ark06&theme=tokyonight&hide_border=true" height="165" alt="Contribution streak"/>
-</div>
-
-## 📜 Certifications
-
-🎓 [Certificates & learning](https://github.com/Atharva-ark06/certificates-portfolio-)
-
-## 🤝 Connect
-
-<div align="center">
-<a href="https://github.com/Atharva-ark06"><img src="https://img.shields.io/badge/GitHub-Atharva--ark06-18181B?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/atharvakulkarniark/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://portfolio-d1q.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome" alt="Portfolio"/></a>
-</div>
-
-<div align="center"><sub>BUILD · SECURE · AUTOMATE</sub></div>
+<p align="center"><a href="https://github.com/Atharva-ark06">GitHub</a> · <a href="https://www.linkedin.com/in/atharvakulkarniark/">LinkedIn</a> · <a href="https://portfolio-d1q.pages.dev/">Portfolio</a> · <a href="mailto:atharvaark2006@gmail.com">Email</a><br/><br/><sub>BUILD · SECURE · AUTOMATE</sub></p>
