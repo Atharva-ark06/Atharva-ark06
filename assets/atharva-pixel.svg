@@ -1,1 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="330" height="280" viewBox="0 0 330 280"><rect width="330" height="280" fill="#0d1117"/><g transform="translate(55 35)" shape-rendering="crispEdges"><rect x="85" y="0" width="90" height="25" fill="#1f2328"/><rect x="60" y="25" width="140" height="30" fill="#1f2328"/><rect x="50" y="55" width="150" height="65" fill="#f0c36e"/><rect x="75" y="65" width="25" height="20" fill="#fff"/><rect x="145" y="65" width="25" height="20" fill="#fff"/><rect x="85" y="70" width="12" height="15" fill="#111"/><rect x="153" y="70" width="12" height="15" fill="#111"/><rect x="105" y="95" width="55" height="10" fill="#b85c4b"/><rect x="85" y="120" width="100" height="70" fill="#2563a6"/><rect x="65" y="135" width="25" height="55" fill="#2563a6"/><rect x="180" y="135" width="25" height="55" fill="#2563a6"/><rect x="85" y="190" width="40" height="45" fill="#3b4654"/><rect x="145" y="190" width="40" height="45" fill="#3b4654"/></g><text x="165" y="265" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="10">ATHARVA · PIXEL ART</text></svg>
+
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="330" height="280" viewBox="0 0 330 280">
+    <rect width="330" height="280" rx="12" fill="#0d1117"/>
+
+    <text x="165" y="25" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="12" letter-spacing="3">ATHARVA.EXE</text>
+
+    <ellipse cx="165" cy="235" rx="42" ry="6" fill="#30363d">
+      <animate attributeName="rx" values="42;32;42" dur="0.8s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <g shape-rendering="crispEdges">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="0.8s" repeatCount="indefinite"/>
+
+      <!-- Hair -->
+      <rect x="120" y="42" width="90" height="18" fill="#161b22"/>
+      <rect x="108" y="55" width="115" height="22" fill="#21262d"/>
+      <rect x="120" y="35" width="65" height="12" fill="#30363d"/>
+
+      <!-- Face -->
+      <rect x="112" y="72" width="106" height="67" fill="#f0c36e"/>
+      <rect x="105" y="82" width="10" height="45" fill="#f0c36e"/>
+      <rect x="218" y="82" width="10" height="45" fill="#d6a653"/>
+
+      <!-- Eyes -->
+      <rect x="128" y="91" width="19" height="21" fill="#ffffff"/>
+      <rect x="179" y="91" width="19" height="21" fill="#ffffff"/>
+      <rect x="134" y="96" width="10" height="15" fill="#0d1117"/>
+      <rect x="185" y="96" width="10" height="15" fill="#0d1117"/>
+
+      <!-- Smile -->
+      <rect x="148" y="122" width="28" height="6" fill="#a94f49"/>
+
+      <!-- Neck -->
+      <rect x="148" y="139" width="32" height="14" fill="#d6a653"/>
+
+      <!-- Shirt -->
+      <path d="M120 150 L205 150 L218 199 L112 199 Z" fill="#2563a6"/>
+      <rect x="130" y="160" width="65" height="5" fill="#58a6ff"/>
+
+      <!-- Left arm -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 120 155;20 120 155;0 120 155" dur="0.8s" repeatCount="indefinite"/>
+        <rect x="100" y="154" width="20" height="42" fill="#2563a6"/>
+        <rect x="100" y="190" width="20" height="16" fill="#f0c36e"/>
+      </g>
+
+      <!-- Animated waving arm -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 207 155;-45 207 155;-65 207 155;-45 207 155;0 207 155" dur="1.2s" repeatCount="indefinite"/>
+        <rect x="207" y="150" width="20" height="45" fill="#2563a6"/>
+        <rect x="207" y="188" width="20" height="18" fill="#f0c36e"/>
+      </g>
+
+      <!-- Pants -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 3;0 0" dur="0.8s" repeatCount="indefinite"/>
+        <rect x="125" y="199" width="37" height="30" fill="#3b4654"/>
+        <rect x="174" y="199" width="37" height="30" fill="#3b4654"/>
+        <rect x="118" y="226" width="48" height="10" fill="#15191f"/>
+        <rect x="170" y="226" width="48" height="10" fill="#15191f"/>
+      </g>
+    </g>
+
+    <!-- Floating pixels -->
+    <g fill="#58a6ff">
+      <rect x="65" y="90" width="5" height="5">
+        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="260" y="125" width="5" height="5">
+        <animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="75" y="180" width="5" height="5">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <text x="165" y="260" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="10" letter-spacing="1">BUILD • SECURE • AUTOMATE</text>
+  </svg>
+</p>
