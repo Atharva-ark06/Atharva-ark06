@@ -45,9 +45,6 @@ I enjoy exploring how systems work, building practical tools, and applying secur
 <p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql,bash,git,github,vscode,windows,linux&theme=dark" alt="Languages and developer tools"/></p>
 <p align="center"><img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat-square&logo=linux&logoColor=white"/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white"/></p>
 
-## GitHub Snapshot
-
-<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Atharva-ark06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-ark06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/><br/><img height="165" src="https://streak-stats.demolab.com?user=Atharva-ark06&theme=tokyonight&hide_border=true" alt="Contribution streak"/></p>
 
 ## Certifications & Learning
 
