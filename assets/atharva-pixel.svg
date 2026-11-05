@@ -1,70 +1,384 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="330" height="280" viewBox="0 0 330 280">
-  <rect width="330" height="280" rx="12" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="300" viewBox="0 0 350 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d20"/>
+      <stop offset="100%" stop-color="#10051f"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff982f"/>
+      <stop offset="100%" stop-color="#c4500b"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe85c"/>
+      <stop offset="100%" stop-color="#e99a14"/>
+    </linearGradient>
+  </defs>
 
-  <text x="165" y="25" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="12">ATHARVA.EXE</text>
+  <!-- Background -->
+  <rect width="350" height="300" rx="12" fill="url(#bg)"/>
 
+  <!-- Cyber ninja interface -->
+  <text x="175" y="23" text-anchor="middle" fill="#ff982f" font-family="monospace" font-size="13" letter-spacing="2">ATHARVA.EXE</text>
+  <text x="175" y="39" text-anchor="middle" fill="#6379d9" font-family="monospace" font-size="7">SHINOBI MODE // MOVEMENT PROTOCOL</text>
+
+  <!-- Chakra platform -->
+  <ellipse cx="175" cy="240" rx="67" ry="15" fill="#11152d" stroke="#ff7628" stroke-width="2">
+    <animate attributeName="stroke" values="#ff7628;#ffcc55;#ff7628" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="175" cy="240" rx="48" ry="8" fill="none" stroke="#4059b5" stroke-width="1"/>
+
+  <!-- Character -->
   <g shape-rendering="crispEdges">
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1s" repeatCount="indefinite"/>
 
-    <!-- Hair -->
-    <rect x="110" y="40" width="110" height="30" fill="#20252d"/>
-    <rect x="125" y="30" width="70" height="15" fill="#30363d"/>
-    <rect x="105" y="60" width="120" height="20" fill="#161b22"/>
-
-    <!-- Face -->
-    <rect x="110" y="75" width="110" height="65" fill="#f0c36e"/>
-    <rect x="100" y="85" width="10" height="40" fill="#f0c36e"/>
-
-    <!-- Eyes -->
-    <rect x="130" y="95" width="20" height="20" fill="#ffffff"/>
-    <rect x="180" y="95" width="20" height="20" fill="#ffffff"/>
-    <rect x="136" y="100" width="10" height="15" fill="#0d1117"/>
-    <rect x="186" y="100" width="10" height="15" fill="#0d1117"/>
-
-    <!-- Mouth -->
-    <rect x="150" y="125" width="30" height="6" fill="#a94f49"/>
-
-    <!-- Neck -->
-    <rect x="145" y="140" width="40" height="15" fill="#d6a653"/>
-
-    <!-- Body -->
-    <path d="M115 155 L215 155 L205 200 L125 200 Z" fill="#2563a6"/>
-    <rect x="130" y="165" width="70" height="5" fill="#58a6ff"/>
-
-    <!-- Left arm -->
+    <!-- IDLE -->
     <g>
-      <animateTransform attributeName="transform" type="rotate" values="0 120 160;20 120 160;0 120 160" dur="1s" repeatCount="indefinite"/>
-      <rect x="100" y="155" width="20" height="40" fill="#2563a6"/>
-      <rect x="100" y="190" width="20" height="15" fill="#f0c36e"/>
+      <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.16;0.17;0.32;0.33;1" dur="14s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2.5s" repeatCount="indefinite"/>
+
+      <!-- Headband tails -->
+      <path d="M125 85 L85 72 L70 80 L105 92 Z" fill="#292b38"/>
+      <path d="M125 92 L80 100 L65 95 L108 85 Z" fill="#39394b"/>
+
+      <!-- Spiky hair -->
+      <path d="M125 70 L115 47 L135 58 L145 35 L155 55 L170 32 L180 54 L195 40 L198 65 L215 55 L210 82 L125 82 Z" fill="url(#hair)"/>
+      <rect x="125" y="68" width="90" height="15" fill="#f2b527"/>
+
+      <!-- Face -->
+      <rect x="128" y="80" width="80" height="62" fill="#f2bd75"/>
+      <rect x="120" y="92" width="8" height="35" fill="#f2bd75"/>
+      <rect x="208" y="92" width="8" height="35" fill="#dca15b"/>
+
+      <!-- Headband -->
+      <rect x="125" y="75" width="90" height="13" fill="#292b38"/>
+      <rect x="155" y="76" width="32" height="12" fill="#a9b3c9"/>
+      <rect x="160" y="78" width="22" height="8" fill="#687a9e"/>
+      <path d="M165 79 L170 83 L175 79 L170 82 Z" fill="#242a3b"/>
+
+      <!-- Eyes -->
+      <rect x="140" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="180" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="145" y="103" width="10" height="12" fill="#20202b"/>
+      <rect x="185" y="103" width="10" height="12" fill="#20202b"/>
+      <rect x="148" y="104" width="4" height="4" fill="#5b9cff"/>
+      <rect x="188" y="104" width="4" height="4" fill="#5b9cff"/>
+
+      <!-- Cheek marks -->
+      <path d="M132 118 L145 121 M132 124 L145 127 M195 121 L205 118" stroke="#a65a35" stroke-width="2"/>
+
+      <!-- Mouth -->
+      <rect x="163" y="128" width="20" height="4" fill="#8d3e34"/>
+
+      <!-- Neck -->
+      <rect x="155" y="140" width="35" height="12" fill="#dca15b"/>
+
+      <!-- Shinobi jacket -->
+      <path d="M130 150 L210 150 L220 202 L120 202 Z" fill="#292b38"/>
+      <path d="M155 153 L185 153 L190 198 L150 198 Z" fill="url(#orange)"/>
+      <rect x="155" y="153" width="30" height="7" fill="#ffb33b"/>
+      <rect x="165" y="160" width="5" height="38" fill="#34394b"/>
+
+      <!-- Collar -->
+      <path d="M150 150 L165 165 L180 150 Z" fill="#c5ccda"/>
+
+      <!-- Arms -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 130 160;10 130 160;0 130 160" dur="2.5s" repeatCount="indefinite"/>
+        <rect x="115" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="115" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0 210 160;-10 210 160;0 210 160" dur="2.5s" repeatCount="indefinite"/>
+        <rect x="210" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="210" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+
+      <!-- Belt -->
+      <rect x="125" y="198" width="90" height="8" fill="#171925"/>
+      <rect x="160" y="198" width="20" height="8" fill="#b6bdcf"/>
+
+      <!-- Pants -->
+      <rect x="130" y="206" width="35" height="23" fill="#292b38"/>
+      <rect x="175" y="206" width="35" height="23" fill="#292b38"/>
+
+      <!-- Ninja sandals -->
+      <rect x="125" y="228" width="42" height="9" fill="#171925"/>
+      <rect x="175" y="228" width="42" height="9" fill="#171925"/>
+      <rect x="137" y="228" width="15" height="3" fill="#9298ac"/>
+      <rect x="187" y="228" width="15" height="3" fill="#9298ac"/>
     </g>
 
-    <!-- Right waving arm -->
+    <!-- WALK -->
     <g>
-      <animateTransform attributeName="transform" type="rotate" values="0 210 160;-45 210 160;-65 210 160;-45 210 160;0 210 160" dur="1s" repeatCount="indefinite"/>
-      <rect x="210" y="155" width="20" height="40" fill="#2563a6"/>
-      <rect x="210" y="190" width="20" height="15" fill="#f0c36e"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.16;0.17;0.32;0.33;1" dur="14s" repeatCount="indefinite"/>
+
+      <!-- Head -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="1.2s" repeatCount="indefinite"/>
+        <path d="M125 85 L85 72 L70 80 L105 92 Z" fill="#292b38"/>
+        <path d="M125 92 L80 100 L65 95 L108 85 Z" fill="#39394b"/>
+        <path d="M125 70 L115 47 L135 58 L145 35 L155 55 L170 32 L180 54 L195 40 L198 65 L215 55 L210 82 L125 82 Z" fill="url(#hair)"/>
+        <rect x="125" y="68" width="90" height="15" fill="#f2b527"/>
+        <rect x="128" y="80" width="80" height="62" fill="#f2bd75"/>
+        <rect x="125" y="75" width="90" height="13" fill="#292b38"/>
+        <rect x="155" y="76" width="32" height="12" fill="#a9b3c9"/>
+        <rect x="160" y="78" width="22" height="8" fill="#687a9e"/>
+        <rect x="140" y="100" width="17" height="15" fill="#fff"/>
+        <rect x="180" y="100" width="17" height="15" fill="#fff"/>
+        <rect x="145" y="103" width="10" height="12" fill="#20202b"/>
+        <rect x="185" y="103" width="10" height="12" fill="#20202b"/>
+        <path d="M132 118 L145 121 M132 124 L145 127 M195 121 L205 118" stroke="#a65a35" stroke-width="2"/>
+        <rect x="163" y="128" width="20" height="4" fill="#8d3e34"/>
+      </g>
+
+      <!-- Torso -->
+      <path d="M130 150 L210 150 L220 202 L120 202 Z" fill="#292b38"/>
+      <path d="M155 153 L185 153 L190 198 L150 198 Z" fill="url(#orange)"/>
+      <rect x="155" y="153" width="30" height="7" fill="#ffb33b"/>
+      <rect x="165" y="160" width="5" height="38" fill="#34394b"/>
+
+      <!-- Swinging arms -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="30 130 160;-30 130 160;30 130 160" dur="1.2s" repeatCount="indefinite"/>
+        <rect x="115" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="115" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-30 210 160;30 210 160;-30 210 160" dur="1.2s" repeatCount="indefinite"/>
+        <rect x="210" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="210" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+
+      <!-- Walking legs -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="30 150 205;-30 150 205;30 150 205" dur="1.2s" repeatCount="indefinite"/>
+        <rect x="130" y="206" width="35" height="23" fill="#292b38"/>
+        <rect x="125" y="228" width="42" height="9" fill="#171925"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-30 190 205;30 190 205;-30 190 205" dur="1.2s" repeatCount="indefinite"/>
+        <rect x="175" y="206" width="35" height="23" fill="#292b38"/>
+        <rect x="175" y="228" width="42" height="9" fill="#171925"/>
+      </g>
     </g>
 
-    <!-- Legs -->
+    <!-- RUN -->
     <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,3;0,0" dur="1s" repeatCount="indefinite"/>
-      <rect x="130" y="200" width="35" height="30" fill="#3b4654"/>
-      <rect x="175" y="200" width="35" height="30" fill="#3b4654"/>
-      <rect x="120" y="228" width="45" height="8" fill="#161b22"/>
-      <rect x="175" y="228" width="45" height="8" fill="#161b22"/>
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.16;0.17;0.32;0.33;0.44;1" dur="14s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur=".7s" repeatCount="indefinite"/>
+
+      <!-- Head -->
+      <path d="M125 85 L85 72 L70 80 L105 92 Z" fill="#292b38"/>
+      <path d="M125 92 L80 100 L65 95 L108 85 Z" fill="#39394b"/>
+      <path d="M125 70 L115 47 L135 58 L145 35 L155 55 L170 32 L180 54 L195 40 L198 65 L215 55 L210 82 L125 82 Z" fill="url(#hair)"/>
+      <rect x="125" y="68" width="90" height="15" fill="#f2b527"/>
+      <rect x="128" y="80" width="80" height="62" fill="#f2bd75"/>
+      <rect x="125" y="75" width="90" height="13" fill="#292b38"/>
+      <rect x="155" y="76" width="32" height="12" fill="#a9b3c9"/>
+      <rect x="160" y="78" width="22" height="8" fill="#687a9e"/>
+      <rect x="140" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="180" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="145" y="103" width="10" height="12" fill="#20202b"/>
+      <rect x="185" y="103" width="10" height="12" fill="#20202b"/>
+      <path d="M132 118 L145 121 M132 124 L145 127 M195 121 L205 118" stroke="#a65a35" stroke-width="2"/>
+      <rect x="163" y="128" width="20" height="4" fill="#8d3e34"/>
+
+      <!-- Leaning torso -->
+      <g transform="rotate(-8 175 170)">
+        <path d="M130 150 L210 150 L220 202 L120 202 Z" fill="#292b38"/>
+        <path d="M155 153 L185 153 L190 198 L150 198 Z" fill="url(#orange)"/>
+        <rect x="155" y="153" width="30" height="7" fill="#ffb33b"/>
+        <rect x="165" y="160" width="5" height="38" fill="#34394b"/>
+      </g>
+
+      <!-- Pumping arms -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-45 130 160;45 130 160;-45 130 160" dur=".7s" repeatCount="indefinite"/>
+        <rect x="115" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="115" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="45 210 160;-45 210 160;45 210 160" dur=".7s" repeatCount="indefinite"/>
+        <rect x="210" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="210" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+
+      <!-- Sprint legs -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-55 150 205;55 150 205;-55 150 205" dur=".7s" repeatCount="indefinite"/>
+        <rect x="130" y="206" width="35" height="23" fill="#292b38"/>
+        <rect x="120" y="225" width="47" height="9" fill="#171925"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="55 190 205;-55 190 205;55 190 205" dur=".7s" repeatCount="indefinite"/>
+        <rect x="175" y="206" width="35" height="23" fill="#292b38"/>
+        <rect x="190" y="225" width="47" height="9" fill="#171925"/>
+      </g>
+    </g>
+
+    <!-- JUMP -->
+    <g>
+      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" keyTimes="0;0.16;0.17;0.32;0.33;0.44;0.45;1" dur="14s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -40;0 -40;0 0" dur="2s" repeatCount="indefinite"/>
+
+      <!-- Head -->
+      <path d="M125 85 L85 72 L70 80 L105 92 Z" fill="#292b38"/>
+      <path d="M125 92 L80 100 L65 95 L108 85 Z" fill="#39394b"/>
+      <path d="M125 70 L115 47 L135 58 L145 35 L155 55 L170 32 L180 54 L195 40 L198 65 L215 55 L210 82 L125 82 Z" fill="url(#hair)"/>
+      <rect x="125" y="68" width="90" height="15" fill="#f2b527"/>
+      <rect x="128" y="80" width="80" height="62" fill="#f2bd75"/>
+      <rect x="125" y="75" width="90" height="13" fill="#292b38"/>
+      <rect x="155" y="76" width="32" height="12" fill="#a9b3c9"/>
+      <rect x="160" y="78" width="22" height="8" fill="#687a9e"/>
+      <rect x="140" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="180" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="145" y="103" width="10" height="12" fill="#20202b"/>
+      <rect x="185" y="103" width="10" height="12" fill="#20202b"/>
+      <path d="M132 118 L145 121 M132 124 L145 127 M195 121 L205 118" stroke="#a65a35" stroke-width="2"/>
+      <rect x="163" y="128" width="20" height="4" fill="#8d3e34"/>
+
+      <!-- Body -->
+      <path d="M130 150 L210 150 L220 202 L120 202 Z" fill="#292b38"/>
+      <path d="M155 153 L185 153 L190 198 L150 198 Z" fill="url(#orange)"/>
+      <rect x="155" y="153" width="30" height="7" fill="#ffb33b"/>
+      <rect x="165" y="160" width="5" height="38" fill="#34394b"/>
+
+      <!-- Raised arms -->
+      <g transform="rotate(-65 130 160)">
+        <rect x="115" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="115" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+      <g transform="rotate(65 210 160)">
+        <rect x="210" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="210" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+
+      <!-- Tucked legs -->
+      <g transform="rotate(35 150 205)">
+        <rect x="130" y="206" width="35" height="23" fill="#292b38"/>
+        <rect x="125" y="228" width="42" height="9" fill="#171925"/>
+      </g>
+      <g transform="rotate(-35 190 205)">
+        <rect x="175" y="206" width="35" height="23" fill="#292b38"/>
+        <rect x="175" y="228" width="42" height="9" fill="#171925"/>
+      </g>
+    </g>
+
+    <!-- DASH -->
+    <g>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" keyTimes="0;0.16;0.17;0.32;0.33;0.44;0.45;1" dur="14s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-35 0;30 0;0 0" dur=".5s" repeatCount="indefinite"/>
+
+      <!-- Head -->
+      <path d="M125 85 L85 72 L70 80 L105 92 Z" fill="#292b38"/>
+      <path d="M125 92 L80 100 L65 95 L108 85 Z" fill="#39394b"/>
+      <path d="M125 70 L115 47 L135 58 L145 35 L155 55 L170 32 L180 54 L195 40 L198 65 L215 55 L210 82 L125 82 Z" fill="url(#hair)"/>
+      <rect x="125" y="68" width="90" height="15" fill="#f2b527"/>
+      <rect x="128" y="80" width="80" height="62" fill="#f2bd75"/>
+      <rect x="125" y="75" width="90" height="13" fill="#292b38"/>
+      <rect x="155" y="76" width="32" height="12" fill="#a9b3c9"/>
+      <rect x="160" y="78" width="22" height="8" fill="#687a9e"/>
+      <rect x="140" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="180" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="145" y="103" width="10" height="12" fill="#20202b"/>
+      <rect x="185" y="103" width="10" height="12" fill="#20202b"/>
+      <path d="M132 118 L145 121 M132 124 L145 127 M195 121 L205 118" stroke="#a65a35" stroke-width="2"/>
+      <rect x="163" y="128" width="20" height="4" fill="#8d3e34"/>
+
+      <!-- Leaning torso -->
+      <g transform="rotate(-15 175 170)">
+        <path d="M130 150 L210 150 L220 202 L120 202 Z" fill="#292b38"/>
+        <path d="M155 153 L185 153 L190 198 L150 198 Z" fill="url(#orange)"/>
+        <rect x="155" y="153" width="30" height="7" fill="#ffb33b"/>
+        <rect x="165" y="160" width="5" height="38" fill="#34394b"/>
+      </g>
+
+      <!-- Sprint arms -->
+      <g transform="rotate(-45 130 160)">
+        <rect x="115" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="115" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+      <g transform="rotate(45 210 160)">
+        <rect x="210" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="210" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+
+      <!-- Extended legs -->
+      <g transform="rotate(-45 150 205)">
+        <rect x="130" y="206" width="35" height="23" fill="#292b38"/>
+        <rect x="120" y="225" width="47" height="9" fill="#171925"/>
+      </g>
+      <g transform="rotate(45 190 205)">
+        <rect x="175" y="206" width="35" height="23" fill="#292b38"/>
+        <rect x="190" y="225" width="47" height="9" fill="#171925"/>
+      </g>
+    </g>
+
+    <!-- LAND -->
+    <g>
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1" keyTimes="0;0.16;0.17;0.32;0.33;0.44;0.45;1" dur="14s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 -12;0 0;0 0" dur="1s" repeatCount="indefinite"/>
+
+      <!-- Head -->
+      <path d="M125 85 L85 72 L70 80 L105 92 Z" fill="#292b38"/>
+      <path d="M125 92 L80 100 L65 95 L108 85 Z" fill="#39394b"/>
+      <path d="M125 70 L115 47 L135 58 L145 35 L155 55 L170 32 L180 54 L195 40 L198 65 L215 55 L210 82 L125 82 Z" fill="url(#hair)"/>
+      <rect x="125" y="68" width="90" height="15" fill="#f2b527"/>
+      <rect x="128" y="80" width="80" height="62" fill="#f2bd75"/>
+      <rect x="125" y="75" width="90" height="13" fill="#292b38"/>
+      <rect x="155" y="76" width="32" height="12" fill="#a9b3c9"/>
+      <rect x="160" y="78" width="22" height="8" fill="#687a9e"/>
+      <rect x="140" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="180" y="100" width="17" height="15" fill="#fff"/>
+      <rect x="145" y="103" width="10" height="12" fill="#20202b"/>
+      <rect x="185" y="103" width="10" height="12" fill="#20202b"/>
+      <path d="M132 118 L145 121 M132 124 L145 127 M195 121 L205 118" stroke="#a65a35" stroke-width="2"/>
+      <rect x="163" y="128" width="20" height="4" fill="#8d3e34"/>
+
+      <!-- Torso -->
+      <path d="M130 150 L210 150 L220 202 L120 202 Z" fill="#292b38"/>
+      <path d="M155 153 L185 153 L190 198 L150 198 Z" fill="url(#orange)"/>
+      <rect x="155" y="153" width="30" height="7" fill="#ffb33b"/>
+      <rect x="165" y="160" width="5" height="38" fill="#34394b"/>
+
+      <!-- Impact arms -->
+      <g transform="rotate(30 130 160)">
+        <rect x="115" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="115" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+      <g transform="rotate(-30 210 160)">
+        <rect x="210" y="155" width="17" height="38" fill="#292b38"/>
+        <rect x="210" y="188" width="17" height="15" fill="#f2bd75"/>
+      </g>
+
+      <!-- Knees bent -->
+      <rect x="130" y="206" width="35" height="18" fill="#292b38"/>
+      <rect x="175" y="206" width="35" height="18" fill="#292b38"/>
+      <rect x="125" y="220" width="42" height="9" fill="#171925"/>
+      <rect x="175" y="220" width="42" height="9" fill="#171925"/>
     </g>
   </g>
 
-  <!-- Floating pixels -->
-  <g fill="#58a6ff">
-    <rect x="65" y="90" width="5" height="5">
-      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+  <!-- Chakra particles -->
+  <g fill="#ff982f">
+    <rect x="105" y="225" width="4" height="4">
+      <animate attributeName="y" values="225;200;225" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
     </rect>
-    <rect x="260" y="140" width="5" height="5">
-      <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
+    <rect x="240" y="220" width="4" height="4">
+      <animate attributeName="y" values="220;190;220" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="2.5s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <text x="165" y="260" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="10">ATHARVA • PIXEL ART</text>
+  <!-- Dash trails -->
+  <g stroke="#ff7628" stroke-width="2" opacity=".5">
+    <path d="M30 165H95 M40 175H90 M20 185H85">
+      <animate attributeName="opacity" values="0;.8;0" dur="1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Footer -->
+  <text x="175" y="270" text-anchor="middle" fill="#ff982f" font-family="monospace" font-size="10" letter-spacing="1">ATHARVA • SHINOBI PIXEL HERO</text>
+  <text x="175" y="285" text-anchor="middle" fill="#6579d9" font-family="monospace" font-size="7">BELIEVE IT! • NEVER GIVE UP</text>
 </svg>
