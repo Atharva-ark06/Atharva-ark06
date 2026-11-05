@@ -16,10 +16,10 @@
   </defs>
 
   <!-- Background -->
-  <rect width="350" height="300" rx="12" fill="url(#bg)"/>
+  <rect width="450" height="400" rx="12" fill="url(#bg)"/>
 
   <!-- Cyber ninja interface -->
-  <text x="175" y="23" text-anchor="middle" fill="#ff982f" font-family="monospace" font-size="13" letter-spacing="2">ATHARVA.EXE</text>
+  <text x="175" y="23" text-anchor="middle" fill="#ff982f" font-family="monospace" font-size="13" letter-spacing="2">ARK</text>
   <text x="175" y="39" text-anchor="middle" fill="#6379d9" font-family="monospace" font-size="7">SHINOBI MODE // MOVEMENT PROTOCOL</text>
 
   <!-- Chakra platform -->
