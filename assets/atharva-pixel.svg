@@ -114,7 +114,7 @@
 
       <!-- Head -->
       <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="1.2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="7.2s" repeatCount="indefinite"/>
         <path d="M125 85 L85 72 L70 80 L105 92 Z" fill="#292b38"/>
         <path d="M125 92 L80 100 L65 95 L108 85 Z" fill="#39394b"/>
         <path d="M125 70 L115 47 L135 58 L145 35 L155 55 L170 32 L180 54 L195 40 L198 65 L215 55 L210 82 L125 82 Z" fill="url(#hair)"/>
