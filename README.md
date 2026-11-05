@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hey! I'm **Atharva Kulkarni** — a Computer Science & Engineering student specializing in **Information Security** at G M University.
+Hey! I'm **Atharva** — A Computer Science & Engineering student specializing in **Information Security** at G M University.
 
 I enjoy exploring how systems work, building practical tools, and applying security-minded thinking to software and AI.
 
