@@ -33,7 +33,7 @@
 
     <!-- IDLE -->
     <g>
-      <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.16;0.17;0.32;0.33;1" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.16;0.17;0.32;0.33;1" dur="28s" repeatCount="indefinite"/>
       <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2.5s" repeatCount="indefinite"/>
 
       <!-- Headband tails -->
@@ -83,12 +83,12 @@
 
       <!-- Arms -->
       <g>
-        <animateTransform attributeName="transform" type="rotate" values="0 130 160;10 130 160;0 130 160" dur="2.5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" values="0 130 160;10 130 160;0 130 160" dur="5.5s" repeatCount="indefinite"/>
         <rect x="115" y="155" width="17" height="38" fill="#292b38"/>
         <rect x="115" y="188" width="17" height="15" fill="#f2bd75"/>
       </g>
       <g>
-        <animateTransform attributeName="transform" type="rotate" values="0 210 160;-10 210 160;0 210 160" dur="2.5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" values="0 210 160;-10 210 160;0 210 160" dur="5.5s" repeatCount="indefinite"/>
         <rect x="210" y="155" width="17" height="38" fill="#292b38"/>
         <rect x="210" y="188" width="17" height="15" fill="#f2bd75"/>
       </g>
@@ -110,11 +110,11 @@
 
     <!-- WALK -->
     <g>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.16;0.17;0.32;0.33;1" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.16;0.17;0.32;0.33;1" dur="28s" repeatCount="indefinite"/>
 
       <!-- Head -->
       <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="7.2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="5.2s" repeatCount="indefinite"/>
         <path d="M125 85 L85 72 L70 80 L105 92 Z" fill="#292b38"/>
         <path d="M125 92 L80 100 L65 95 L108 85 Z" fill="#39394b"/>
         <path d="M125 70 L115 47 L135 58 L145 35 L155 55 L170 32 L180 54 L195 40 L198 65 L215 55 L210 82 L125 82 Z" fill="url(#hair)"/>
