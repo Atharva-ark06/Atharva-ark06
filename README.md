@@ -1,5 +1,5 @@
 <!-- ATHARVA KULKARNI | GitHub Profile -->
-
+ 
 <table align="center">
   <tr><td align="center" colspan="3"><img src="./assets/header.svg" width="790" alt="Atharva Kulkarni — securing the cyber frontier"/></td></tr>
   <tr>
